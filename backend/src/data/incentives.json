@@ -1,0 +1,518 @@
+[
+  {
+    "id": "inc-001",
+    "name": "Güzəştli kreditləşmə, kredit zəmanəti və faiz subsidiyası",
+    "description": "Fermerlərin maliyyə institutlarından aldığı kreditlər üzrə zəmanət və faiz subsidiyası mexanizmləri genişləndirilir, aqrar istehsal və emal sektorunda \"Azərbaycan Biznesinin İnkişafı Fondu\" ASC vasitəsilə güzəştli kreditləşmə tətbiq olunur.",
+    "sahe_tags": [
+      "maliyyə"
+    ],
+    "keywords": [
+      "kredit",
+      "guzeştli-kredit",
+      "faiz-subsidiyasi",
+      "zamanet",
+      "aibf"
+    ],
+    "related_items": [
+      "8.2.2.2",
+      "8.2.2.3",
+      "8.2.2.4"
+    ]
+  },
+  {
+    "id": "inc-002",
+    "name": "Aqrar sığorta haqqının dövlət tərəfindən subsidiyalaşdırılması",
+    "description": "Bitkiçilik, heyvandarlıq və balıqçılıq üzrə sığorta predmetlərinin əhatə dairəsi genişləndirilir, sığorta haqlarının dövlət hesabına ödənilən hissəsi subyekt, predmet və risklərə görə diferensiallaşdırılır.",
+    "sahe_tags": [
+      "sığorta"
+    ],
+    "keywords": [
+      "aqrar-sigorta",
+      "sigorta-haqqi-subsidiyasi",
+      "asf"
+    ],
+    "related_items": [
+      "8.2.2.5",
+      "8.2.2.6",
+      "8.2.2.9"
+    ]
+  },
+  {
+    "id": "inc-003",
+    "name": "Pambıq mahlıcı/ipliyinə məhsul subsidiyası və emal investisiyasına güzəştli kredit",
+    "description": "Pambıq mahlıcının iplik istehsalına, ipliyin isə parça istehsalına yönəldilən hissəsi üçün məhsul subsidiyası verilir; iplik və parça istehsalı investisiyaları güzəştli kreditlə dəstəklənir.",
+    "sahe_tags": [
+      "emal",
+      "pambıq"
+    ],
+    "keywords": [
+      "pambiq",
+      "iplik",
+      "mehsul-subsidiyasi"
+    ],
+    "related_items": [
+      "8.3.1.1"
+    ]
+  },
+  {
+    "id": "inc-004",
+    "name": "Süd emalına subsidiya və müddətli vergi güzəşti",
+    "description": "Sənaye emalına yönələn yerli südə subsidiya tətbiq edilir, süd emalı müəssisələrinə müddətli vergi güzəştləri verilir.",
+    "sahe_tags": [
+      "emal",
+      "süd"
+    ],
+    "keywords": [
+      "sud-emali",
+      "vergi-guzeşti",
+      "subsidiya"
+    ],
+    "related_items": [
+      "8.3.1.5"
+    ]
+  },
+  {
+    "id": "inc-005",
+    "name": "Ət məhsulları emalına subsidiya və müddətli vergi güzəşti",
+    "description": "Kəsimxanada kəsilən iribuynuzlu heyvanlara subsidiya verilir, ət məhsulları emalı müəssisələrinə müddətli vergi güzəştləri tətbiq olunur.",
+    "sahe_tags": [
+      "emal",
+      "ət"
+    ],
+    "keywords": [
+      "et-emali",
+      "vergi-guzeşti",
+      "subsidiya"
+    ],
+    "related_items": [
+      "8.3.1.6"
+    ]
+  },
+  {
+    "id": "inc-006",
+    "name": "Meyvə-tərəvəz emalına xammal subsidiyası",
+    "description": "Emala yönələn meyvə-tərəvəz xammalına məhsul subsidiyası tətbiq edilir, emal həcminin artırılması dəstəklənir.",
+    "sahe_tags": [
+      "emal",
+      "meyvə-tərəvəz"
+    ],
+    "keywords": [
+      "meyve-tereveze-emal",
+      "mehsul-subsidiyasi"
+    ],
+    "related_items": [
+      "8.3.1.4"
+    ]
+  },
+  {
+    "id": "inc-007",
+    "name": "Gön-dəri və yun emalına toplama və məhsul subsidiyası",
+    "description": "Gön-dəri və yunun emala yönəldilməsi üçün toplama məntəqələri dəstəklənir, yun və dəri üçün məhsul subsidiyası tətbiq olunur.",
+    "sahe_tags": [
+      "emal"
+    ],
+    "keywords": [
+      "yun",
+      "gon-deri",
+      "mehsul-subsidiyasi"
+    ],
+    "related_items": [
+      "8.3.1.7"
+    ]
+  },
+  {
+    "id": "inc-008",
+    "name": "Bitki yağı istehsalına investisiya təşviqi",
+    "description": "Bitki yağları istehsalı klasterinin formalaşdırılması dəstəklənir, yeni emal zavodlarının yaradılması təşviq olunur.",
+    "sahe_tags": [
+      "emal"
+    ],
+    "keywords": [
+      "bitki-yagi",
+      "investisiya-teşviqi",
+      "klaster"
+    ],
+    "related_items": [
+      "8.3.1.2"
+    ]
+  },
+  {
+    "id": "inc-009",
+    "name": "Şərab istehsalının təşviqi",
+    "description": "Kiçik butik tipli şərab istehsalçılarının yaradılması və inkişafı dəstəklənir.",
+    "sahe_tags": [
+      "emal",
+      "üzümçülük"
+    ],
+    "keywords": [
+      "sarab",
+      "boutik"
+    ],
+    "related_items": [
+      "8.3.1.3"
+    ]
+  },
+  {
+    "id": "inc-010",
+    "name": "Gübrə istehsalına investisiya təşviqi",
+    "description": "Yerli gübrə istehsalının artırılması və daxili tələbatın yerli istehsal hesabına ödənilməsi üçün investisiya təşviq olunur.",
+    "sahe_tags": [
+      "istehsal-vasiteleri"
+    ],
+    "keywords": [
+      "gubre",
+      "investisiya-teşviqi"
+    ],
+    "related_items": [
+      "8.3.2.1"
+    ]
+  },
+  {
+    "id": "inc-011",
+    "name": "Yem istehsalına vergi və gömrük güzəştləri",
+    "description": "Yerli yem istehsalının artırılması üçün vergi və gömrük güzəştləri tətbiq olunur.",
+    "sahe_tags": [
+      "istehsal-vasiteleri"
+    ],
+    "keywords": [
+      "yem",
+      "vergi-gomruk-guzeşti"
+    ],
+    "related_items": [
+      "8.3.2.2"
+    ]
+  },
+  {
+    "id": "inc-012",
+    "name": "Kommunal infrastruktura qoşulmanın subsidiyalaşdırılması",
+    "description": "Aqrar istehsal və emal müəssisələrinin enerji, su və qaz təminatı üçün texniki şərtin alınması xərcləri subsidiyalaşdırılır.",
+    "sahe_tags": [
+      "infrastruktur"
+    ],
+    "keywords": [
+      "kommunal-qoşulma",
+      "subsidiya",
+      "texniki-şert"
+    ],
+    "related_items": [
+      "8.3.4.2"
+    ]
+  },
+  {
+    "id": "inc-013",
+    "name": "İstixana qurulması və modernləşdirilməsinə dəstək",
+    "description": "Yeni istixana sahələrinin qurulması və fəaliyyətini dayandırmış istixanaların modernləşdirilməsi üçün stimullaşdırma mexanizmləri (o cümlədən elektrik təchizatına qoşulma subsidiyası və avadanlığın güzəştli satışı) tətbiq edilir.",
+    "sahe_tags": [
+      "istixana"
+    ],
+    "keywords": [
+      "istixana",
+      "ortulu-sahe",
+      "elektrik-qoşulma-subsidiyasi",
+      "avadanliq-guzeştli-satiş"
+    ],
+    "related_items": [
+      "8.3.4.3"
+    ]
+  },
+  {
+    "id": "inc-014",
+    "name": "İntensiv bağ salınmasının dəstəklənməsi",
+    "description": "İntensiv bağların sahəsinin genişləndirilməsi dövlət dəstəyi ilə stimullaşdırılır.",
+    "sahe_tags": [
+      "bağçılıq"
+    ],
+    "keywords": [
+      "intensiv-bag",
+      "dovlet-destegi"
+    ],
+    "related_items": [
+      "8.3.4.4"
+    ]
+  },
+  {
+    "id": "inc-015",
+    "name": "İxrac sertifikatlaşdırmasına subsidiya",
+    "description": "İstehsalçıların qlobal və regional bazarlarda qəbul edilən sertifikatları əldə etməsi üçün subsidiya mexanizmi tətbiq olunur.",
+    "sahe_tags": [
+      "ixrac"
+    ],
+    "keywords": [
+      "sertifikatlaşdirma",
+      "subsidiya",
+      "ixrac"
+    ],
+    "related_items": [
+      "8.3.4.5"
+    ]
+  },
+  {
+    "id": "inc-016",
+    "name": "Aqroparkların inkişafına dəstək",
+    "description": "Mövcud aqroparkların yeni inkişaf modelinə keçidi və ixracyönümlü fəaliyyəti dəstəklənir.",
+    "sahe_tags": [
+      "aqropark"
+    ],
+    "keywords": [
+      "aqropark",
+      "ixrac"
+    ],
+    "related_items": [
+      "8.3.4.6"
+    ]
+  },
+  {
+    "id": "inc-017",
+    "name": "Yerli aqrar məhsulların brendləşdirilməsinə dəstək",
+    "description": "Yerli aqrar məhsulların regional brend statusu əldə etməsi dəstəklənir.",
+    "sahe_tags": [
+      "brendləşdirmə"
+    ],
+    "keywords": [
+      "brend",
+      "regional-mehsul"
+    ],
+    "related_items": [
+      "8.3.4.7"
+    ]
+  },
+  {
+    "id": "inc-018",
+    "name": "İxrac təşviqi üzrə ünvanlı dəstək",
+    "description": "İxracyönümlü aqrobizneslər üçün qeyri-ənənəvi xarici bazarlara çıxışı asanlaşdıran ünvanlı dəstək mexanizmləri tətbiq olunur.",
+    "sahe_tags": [
+      "ixrac"
+    ],
+    "keywords": [
+      "ixrac-destegi",
+      "aqrobiznes"
+    ],
+    "related_items": [
+      "8.3.4.1"
+    ]
+  },
+  {
+    "id": "inc-019",
+    "name": "Damazlıq heyvanların güzəştlə satışı və heyvan/məhsul subsidiyası",
+    "description": "Yüksək məhsuldar cins damazlıq heyvanların güzəştli satışı təmin edilir, heyvan və məhsul subsidiyası, həmçinin süni mayalanmada diferensiallaşdırılmış dəstək tətbiq olunur.",
+    "sahe_tags": [
+      "heyvandarlıq",
+      "süd"
+    ],
+    "keywords": [
+      "damazliq",
+      "guzeştli-satiş",
+      "heyvan-subsidiyasi",
+      "suni-mayalanma"
+    ],
+    "related_items": [
+      "8.4.2.1"
+    ]
+  },
+  {
+    "id": "inc-020",
+    "name": "Qoyunçuluqda artezian quyusu qazılmasının subsidiyalaşdırılması",
+    "description": "Yarım intensiv qoyunçuluq təsərrüfatları üçün artezian quyularının qazılması xərcləri subsidiyalaşdırılır.",
+    "sahe_tags": [
+      "heyvandarlıq"
+    ],
+    "keywords": [
+      "qoyunçuluq",
+      "artezian-subsidiyasi"
+    ],
+    "related_items": [
+      "8.4.2.2"
+    ]
+  },
+  {
+    "id": "inc-021",
+    "name": "Quşçuluqda infrastruktur və emal dəstəyi",
+    "description": "Toyuq damı/kəsimxana qurulmasına və quşçuluq məhsullarının emalı müəssisəsi yaradılmasına dəstək mexanizmləri tətbiq olunur.",
+    "sahe_tags": [
+      "heyvandarlıq"
+    ],
+    "keywords": [
+      "qusculuq",
+      "destek-mexanizmi"
+    ],
+    "related_items": [
+      "8.4.2.3"
+    ]
+  },
+  {
+    "id": "inc-022",
+    "name": "Kənd təsərrüfatı texnikasının güzəştli satışı və kreditləşməsi",
+    "description": "Kombayn, traktor, lazerli mala və digər texnika/avadanlıqların satışına diferensial güzəşt və güzəştli kreditləşmə mexanizmləri tətbiq olunur.",
+    "sahe_tags": [
+      "texnika"
+    ],
+    "keywords": [
+      "texnika-guzeşti",
+      "kombayn",
+      "traktor",
+      "guzeştli-kredit"
+    ],
+    "related_items": [
+      "8.4.2.4"
+    ]
+  },
+  {
+    "id": "inc-023",
+    "name": "Dəyər zənciri üzrə vergi siyasətinin optimallaşdırılması",
+    "description": "Aqrar istehsal və emal sahələrində investisiya fəallığını artırmaq üçün vergi siyasəti dəyər zənciri üzrə optimallaşdırılır.",
+    "sahe_tags": [
+      "vergi"
+    ],
+    "keywords": [
+      "vergi-siyaseti",
+      "deyer-zenciri"
+    ],
+    "related_items": [
+      "8.4.2.5"
+    ]
+  },
+  {
+    "id": "inc-024",
+    "name": "Buğda istehsalına lazerli mala subsidiyası",
+    "description": "Buğda məhsuldarlığının artırılması üçün lazerli mala tətbiqi subsidiyalaşdırılır.",
+    "sahe_tags": [
+      "taxılçılıq"
+    ],
+    "keywords": [
+      "bugda",
+      "lazerli-mala-subsidiyasi"
+    ],
+    "related_items": [
+      "8.4.2.6"
+    ]
+  },
+  {
+    "id": "inc-025",
+    "name": "Pambıq istehsalına məhsul və lazerli mala subsidiyası",
+    "description": "Pambıq məhsuldarlığının artırılması üçün məhsul istehsalına subsidiya və lazerli mala tətbiqinə subsidiya verilir.",
+    "sahe_tags": [
+      "pambıq"
+    ],
+    "keywords": [
+      "pambiq",
+      "mehsul-subsidiyasi",
+      "lazerli-mala-subsidiyasi"
+    ],
+    "related_items": [
+      "8.4.2.7"
+    ]
+  },
+  {
+    "id": "inc-026",
+    "name": "Qadın və gənc fermerlər üçün xüsusi dəstək",
+    "description": "Kənd təsərrüfatı fəaliyyəti ilə məşğul olan qadın və gənc fermerlər üçün xüsusi dəstək mexanizmləri və layihələr həyata keçirilir.",
+    "sahe_tags": [
+      "sosial"
+    ],
+    "keywords": [
+      "qadin-fermer",
+      "genc-fermer"
+    ],
+    "related_items": [
+      "8.4.2.8"
+    ]
+  },
+  {
+    "id": "inc-027",
+    "name": "Kooperativ və assosiasiyalara dövlət dəstəyi",
+    "description": "Kənd təsərrüfatında kooperasiyalaşma və assosiasiyaların formalaşdırılması dövlət dəstəyi ilə həyata keçirilir.",
+    "sahe_tags": [
+      "kooperasiya"
+    ],
+    "keywords": [
+      "kooperativ",
+      "assosiasiya",
+      "dovlet-destegi"
+    ],
+    "related_items": [
+      "8.4.2.9"
+    ]
+  },
+  {
+    "id": "inc-028",
+    "name": "Örüş və otlaq sahələrinin münbitliyinin qorunmasına subsidiya",
+    "description": "Örüş və otlaq sahələrinin effektiv idarə edilməsi və münbitliyinin bərpası üçün subsidiya mexanizmi tətbiq olunur.",
+    "sahe_tags": [
+      "heyvandarlıq",
+      "torpaq"
+    ],
+    "keywords": [
+      "oruş",
+      "otlaq",
+      "subsidiya"
+    ],
+    "related_items": [
+      "8.1.1.6"
+    ]
+  },
+  {
+    "id": "inc-029",
+    "name": "Müasir suvarma sistemlərinin güzəştli satışı",
+    "description": "Əkin sahələrində müasir (damlama və s.) suvarma sistemlərinin tətbiqinin genişləndirilməsi dəstəklənir.",
+    "sahe_tags": [
+      "suvarma"
+    ],
+    "keywords": [
+      "suvarma",
+      "damlama",
+      "guzeştli-satiş"
+    ],
+    "related_items": [
+      "8.1.2.1"
+    ]
+  },
+  {
+    "id": "inc-030",
+    "name": "Torpaqların konsolidasiyası pilot modeli",
+    "description": "Seçilmiş pilot rayonlarda torpaqların konsolidasiyası və təsərrüfatdaxili suvarma şəbəkəsinin qurulması dəstəklənir.",
+    "sahe_tags": [
+      "torpaq",
+      "suvarma"
+    ],
+    "keywords": [
+      "torpaq",
+      "konsolidasiya",
+      "suvarma"
+    ],
+    "related_items": [
+      "8.1.1.3"
+    ]
+  },
+  {
+    "id": "inc-031",
+    "name": "Bərpa olunan enerji mənbələrindən istifadənin təşviqi",
+    "description": "Kənd təsərrüfatında (istixana, suvarma və s. üçün) bərpa olunan enerji mənbələrindən (günəş və s.) istifadə edən təsərrüfatlar təşviq olunur.",
+    "sahe_tags": [
+      "enerji"
+    ],
+    "keywords": [
+      "bərpa-olunan-enerji",
+      "günəş",
+      "dəstək"
+    ],
+    "related_items": [
+      "8.1.3.1"
+    ]
+  },
+  {
+    "id": "inc-032",
+    "name": "Balıqçılıq və akvakultura istehsalı/emalına subsidiya və güzəştlər",
+    "description": "Akvakultura subyektlərinin məhsul buraxılışının artırılması üçün balıqçılıq və akvakultura məhsulları istehsalı və emalı sahəsində subsidiya və güzəştlər tətbiq olunur.",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "akvakultura-subsidiyasi",
+      "guzeşt",
+      "balıqçılıq"
+    ],
+    "related_items": [
+      "8.5.2.3"
+    ]
+  }
+]

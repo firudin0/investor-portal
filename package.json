@@ -1,0 +1,19 @@
+{
+  "name": "investor-portal",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev:backend": "npm run dev --workspace backend",
+    "dev:frontend": "npm run dev --workspace frontend",
+    "dev:mock-internal": "npm run dev:mock --workspace backend",
+    "build": "npm run build --workspace frontend && npm run build --workspace backend",
+    "start": "npm run start --workspace backend"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

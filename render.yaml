@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: investor-portal-demo
+    runtime: node
+    plan: free
+    buildCommand: npm install --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      - key: INTERNAL_ADAPTER_MODE
+        value: pull
+      - key: INTERNAL_API_KEY
+        generateValue: true
+      - key: RUN_MOCK_INTERNAL
+        value: "true"
+      - key: DB_PATH
+        value: /tmp/data.sqlite

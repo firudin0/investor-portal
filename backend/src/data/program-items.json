@@ -1,0 +1,1833 @@
+[
+  {
+    "id": "item-001",
+    "bend_no": "8.1.1.1",
+    "title": "Kənd təsərrüfatı təyinatlı torpaqların münbitliyinin qorunması məqsədilə interaktiv nəzarət mexanizminin tətbiq edilməsi",
+    "text": "Kənd təsərrüfatı təyinatlı torpaqların münbitliyinin qorunması məqsədilə interaktiv nəzarət mexanizminin tətbiq edilməsi",
+    "netice": "Ölkə üzrə interaktiv nəzarət mexanizminin tətbiqinə başlanılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi",
+      "Yerli İcra Hakimiyyəti Orqanları"
+    ],
+    "other_executor_codes": "İN, ETSN, YİHO",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "torpaq"
+    ],
+    "keywords": [
+      "torpaq",
+      "munbitlik",
+      "suni-intellekt"
+    ]
+  },
+  {
+    "id": "item-002",
+    "bend_no": "8.1.1.2",
+    "title": "Kənd təsərrüfatı təyinatlı torpaqların münbitliyinin pozulması hallarında bərpayönümlü (rekultivasiya) tədbirlərin görülməsi mexanizminin yaradılması və tətbiq edilməsi",
+    "text": "Kənd təsərrüfatı təyinatlı torpaqların münbitliyinin pozulması hallarında bərpayönümlü (rekultivasiya) tədbirlərin görülməsi mexanizminin yaradılması və tətbiq edilməsi",
+    "netice": "Bərpayönümlü (rekultivasiya) tədbirlərinin görülməsi nəticəsində torpaqların münbitliyinin artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi"
+    ],
+    "other_executor_codes": "İN, ETSN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "torpaq"
+    ],
+    "keywords": [
+      "torpaq",
+      "rekultivasiya",
+      "munbitlik"
+    ]
+  },
+  {
+    "id": "item-003",
+    "bend_no": "8.1.1.3",
+    "title": "Torpaqların konsolidasiyası mexanizminin yaradılması və pilot layihə olaraq tətbiq edilməsi",
+    "text": "Torpaqların konsolidasiyası mexanizminin yaradılması və pilot layihə olaraq tətbiq edilməsi",
+    "netice": "Seçilmiş 2 pilot rayonda (Qəbələ və Salyan) 20 min hektar sahədə torpaqların konsolidasiyası və təsərrüfatdaxili suvarma şəbəkəsinin qurulması, su resurslarından istifadənin effektiv idarə olunması ilə bağlı yeni pilot modelin tətbiq edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Dövlət Su Ehtiyatları Agentliyi"
+    ],
+    "other_executor_codes": "İN, ADSEA",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "torpaq",
+      "suvarma"
+    ],
+    "keywords": [
+      "torpaq",
+      "konsolidasiya",
+      "suvarma"
+    ]
+  },
+  {
+    "id": "item-004",
+    "bend_no": "8.1.1.4",
+    "title": "Əkin sahələrinin aqrokimyəvi göstəricilər əsasında xəritələşdirilməsi",
+    "text": "Əkin sahələrinin aqrokimyəvi göstəricilər əsasında xəritələşdirilməsi",
+    "netice": "Ölkə üzrə əkin sahələrinin aqrokimyəvi xəritələrinin hazırlanması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "torpaq"
+    ],
+    "keywords": [
+      "torpaq",
+      "aqrokimya",
+      "xəritələşdirmə"
+    ]
+  },
+  {
+    "id": "item-005",
+    "bend_no": "8.1.1.5",
+    "title": "Torpaq analizi sisteminin müasirləşdirilməsi",
+    "text": "Torpaq analizi sisteminin müasirləşdirilməsi",
+    "netice": "Ümumilikdə 11 dövlət laboratoriyasının texniki müasirləşdirilməsinin başa çatdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "torpaq"
+    ],
+    "keywords": [
+      "torpaq",
+      "laboratoriya",
+      "analiz"
+    ]
+  },
+  {
+    "id": "item-006",
+    "bend_no": "8.1.1.6",
+    "title": "Örüş və otlaq sahələrinin effektiv idarə edilməsi sisteminin yaradılması və münbitliyinin bərpası",
+    "text": "Örüş və otlaq sahələrinin effektiv idarə edilməsi sisteminin yaradılması və münbitliyinin bərpası",
+    "netice": "Ümumilikdə 480 min ha örüş və otlaq sahələrinin münbitliyinin yaxşılaşdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi"
+    ],
+    "other_executor_codes": "İN, ETSN",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "heyvandarlıq",
+      "torpaq"
+    ],
+    "keywords": [
+      "oruş",
+      "otlaq",
+      "subsidiya"
+    ]
+  },
+  {
+    "id": "item-007",
+    "bend_no": "8.1.2.1",
+    "title": "Müasir suvarma sistemlərinin tətbiqinin genişləndirilməsi",
+    "text": "Müasir suvarma sistemlərinin tətbiqinin genişləndirilməsi",
+    "netice": "Ölkə üzrə əkin sahələrinin 300 min hektarında müasir suvarma sistemlərinin tətbiq edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Dövlət Su Ehtiyatları Agentliyi",
+      "digər aidiyyəti orqanlar (qurumlar)"
+    ],
+    "other_executor_codes": "İN, ADSEA, digər aidiyyəti orqanlar (qurumlar)",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "suvarma"
+    ],
+    "keywords": [
+      "suvarma",
+      "damlama",
+      "guzeştli-satiş"
+    ]
+  },
+  {
+    "id": "item-008",
+    "bend_no": "8.1.2.2",
+    "title": "Suvarma suyunun keyfiyyət monitorinqi və idarəetmə sisteminin yaradılması",
+    "text": "Suvarma suyunun keyfiyyət monitorinqi və idarəetmə sisteminin yaradılması",
+    "netice": "Əsas irriqasiya və meliorasiya şəbəkələri üzrə su keyfiyyəti monitorinqi sisteminin tətbiq edilməsi",
+    "executor": "Azərbaycan Dövlət Su Ehtiyatları Agentliyi",
+    "executor_code": "ADSEA",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "KTN, İN",
+    "muddet": "2028-2030",
+    "sahe_tags": [
+      "suvarma"
+    ],
+    "keywords": [
+      "suvarma",
+      "su-keyfiyyəti",
+      "monitorinq"
+    ]
+  },
+  {
+    "id": "item-009",
+    "bend_no": "8.1.2.3",
+    "title": "Suvarma suyunun və təsərrüfatdaxili suvarma şəbəkəsinin idarə edilməsi üzrə institusional potensialın gücləndirilməsi",
+    "text": "Suvarma suyunun və təsərrüfatdaxili suvarma şəbəkəsinin idarə edilməsi üzrə institusional potensialın gücləndirilməsi",
+    "netice": "Su resurslarının səmərəli idarəetmə sisteminin formalaşdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Dövlət Su Ehtiyatları Agentliyi"
+    ],
+    "other_executor_codes": "ADSEA",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "suvarma"
+    ],
+    "keywords": [
+      "suvarma",
+      "su-istifadəçiləri-birliyi"
+    ]
+  },
+  {
+    "id": "item-010",
+    "bend_no": "8.1.3.1",
+    "title": "Kənd təsərrüfatında bərpa olunan enerji mənbələrindən istifadənin təşviqi",
+    "text": "Kənd təsərrüfatında bərpa olunan enerji mənbələrindən istifadənin təşviqi",
+    "netice": "Bərpa olunan enerji mənbələrindən istifadə edən təsərrüfatların sayının 15-ə çatdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Energetika Nazirliyi"
+    ],
+    "other_executor_codes": "EN",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "enerji"
+    ],
+    "keywords": [
+      "bərpa-olunan-enerji",
+      "günəş",
+      "dəstək"
+    ]
+  },
+  {
+    "id": "item-011",
+    "bend_no": "8.1.3.2",
+    "title": "Aqrar sektorda istilik effekti yaradan emissiyaların monitorinqi və hesabatlıq sisteminin yaradılması",
+    "text": "Aqrar sektorda istilik effekti yaradan emissiyaların monitorinqi və hesabatlıq sisteminin yaradılması",
+    "netice": "Aqrar sektorda istilik effekti yaradan emissiyaların monitorinqi və hesabatlıq sisteminin tətbiq edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi"
+    ],
+    "other_executor_codes": "ETSN",
+    "muddet": "2028-2030",
+    "sahe_tags": [
+      "ekologiya"
+    ],
+    "keywords": [
+      "emissiya",
+      "monitorinq",
+      "iqlim"
+    ]
+  },
+  {
+    "id": "item-012",
+    "bend_no": "8.1.3.3",
+    "title": "Ölkədə ənənəvi ərzaq və kənd təsərrüfatı sistemlərinin dayanıqlılığının təmin edilməsi üzrə pilot layihənin həyata keçirilməsi",
+    "text": "Ölkədə ənənəvi ərzaq və kənd təsərrüfatı sistemlərinin dayanıqlılığının təmin edilməsi üzrə pilot layihənin həyata keçirilməsi",
+    "netice": "Azı 3 NİAHS (Milli Əhəmiyyətli Aqrar İrs Sistemi) məntəqəsinin müəyyən edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi",
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Yerli İcra Hakimiyyəti Orqanları"
+    ],
+    "other_executor_codes": "AQTA, İN, YİHO",
+    "muddet": "2027-2028",
+    "sahe_tags": [
+      "ekologiya"
+    ],
+    "keywords": [
+      "aqrar-iras",
+      "niahs",
+      "dayaniqlilik"
+    ]
+  },
+  {
+    "id": "item-013",
+    "bend_no": "8.1.3.4",
+    "title": "İqlim dəyişikliklərinə həssas regionlar üzrə erkən xəbərdarlıq sisteminin qurulması",
+    "text": "İqlim dəyişikliklərinə həssas regionlar üzrə erkən xəbərdarlıq sisteminin qurulması",
+    "netice": "Prioritetləşmiş regionlar üzrə erkən xəbərdarlıq sistemlərinin qurulması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi",
+      "Azərbaycan Dövlət Su Ehtiyatları Agentliyi"
+    ],
+    "other_executor_codes": "ETSN, ADSEA",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "ekologiya"
+    ],
+    "keywords": [
+      "iqlim",
+      "erkən-xəbərdarlıq"
+    ]
+  },
+  {
+    "id": "item-014",
+    "bend_no": "8.1.4.1",
+    "title": "Toxumçuluğun (tingçiliyin) inkişafı üzrə hüquqi, institusional və dəstək tədbirlərinin hazırlanması və icra edilməsi",
+    "text": "Toxumçuluğun (tingçiliyin) inkişafı üzrə hüquqi, institusional və dəstək tədbirlərinin hazırlanması və icra edilməsi",
+    "netice": "Toxum istehsalının artırılması, bu sahədə özünütəminatın yaxşılaşdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "toxumçuluq"
+    ],
+    "keywords": [
+      "toxum",
+      "tingçilik",
+      "subsidiya"
+    ]
+  },
+  {
+    "id": "item-015",
+    "bend_no": "8.1.4.2",
+    "title": "Toxumçuluq (o cümlədən tingçilik) sahəsində keyfiyyətə nəzarət sisteminin gücləndirilməsi",
+    "text": "Toxumçuluq (o cümlədən tingçilik) sahəsində keyfiyyətə nəzarət sisteminin gücləndirilməsi",
+    "netice": "Toxumçuluq (o cümlədən tingçilik) sahəsində qurulmuş mütərəqqi sistem vasitəsilə keyfiyyətə və dövriyyəyə nəzarətin təmin edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Antiinhisar və İstehlak Bazarına Nəzarət Dövlət Agentliyi",
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi"
+    ],
+    "other_executor_codes": "AİBNDA, İN, AQTA",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "toxumçuluq"
+    ],
+    "keywords": [
+      "toxum",
+      "keyfiyyət-nəzarəti"
+    ]
+  },
+  {
+    "id": "item-016",
+    "bend_no": "8.1.4.3",
+    "title": "Bitkiçilik sahəsində seleksiya nailiyyətlərinin uçotu və onlara nəzarət sisteminin gücləndirilməsi, seleksiya proqramlarının icra edilməsi",
+    "text": "Bitkiçilik sahəsində seleksiya nailiyyətlərinin uçotu və onlara nəzarət sisteminin gücləndirilməsi, seleksiya proqramlarının icra edilməsi",
+    "netice": "Seleksiya proqramlarının müasir metodlar tətbiq edilməklə həyata keçirilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "bitkiçilik"
+    ],
+    "keywords": [
+      "seleksiya",
+      "patent",
+      "toxum"
+    ]
+  },
+  {
+    "id": "item-017",
+    "bend_no": "8.1.4.4",
+    "title": "Heyvandarlıq və balıqçılıq sahəsində seleksiya və damazlıq proqramlarının icra edilməsi",
+    "text": "Heyvandarlıq və balıqçılıq sahəsində seleksiya və damazlıq proqramlarının icra edilməsi",
+    "netice": "Heyvandarlıq və balıqçılıq sahəsində müasir metodlara əsaslanan seleksiya və damazlıq proqramlarının həyata keçirilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "heyvandarlıq",
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "damazlıq",
+      "seleksiya"
+    ]
+  },
+  {
+    "id": "item-018",
+    "bend_no": "8.1.4.5",
+    "title": "Yerli heyvan cinsləri və bitki növlərinin genetik ehtiyatları üzrə təkmil genetik materiallar banklarının (kolleksiyaların) yaradılması",
+    "text": "Yerli heyvan cinsləri və bitki növlərinin genetik ehtiyatları üzrə təkmil genetik materiallar banklarının (kolleksiyaların) yaradılması",
+    "netice": "Ölkədə mövcud olan, xüsusilə də itmək təhlükəsi olan aborigen heyvan cinsləri və bitki növləri üzrə genetik materialların bankları və bununla bağlı məlumat bazalarının yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN, ETN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi"
+    ],
+    "other_executor_codes": "ETSN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "heyvandarlıq",
+      "bitkiçilik"
+    ],
+    "keywords": [
+      "genetik-bank",
+      "aborigen-cins"
+    ]
+  },
+  {
+    "id": "item-019",
+    "bend_no": "8.1.4.6",
+    "title": "Milli atçılıq irsinin qorunması",
+    "text": "Milli atçılıq irsinin qorunması",
+    "netice": "Yerli at cinslərinin təmizqanlılığının qorunması, işğaldan azad edilmiş ərazilərdə atçılıq zavodunun yaradılması, atçılıq sahəsində yarış infrastrukturunun yaxşılaşdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Mədəniyyət Nazirliyi",
+      "Azərbaycan Respublikasının Dövlət Sərhəd Xidməti"
+    ],
+    "other_executor_codes": "MdN, DSX",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "heyvandarlıq"
+    ],
+    "keywords": [
+      "atçılıq",
+      "qarabağ-ati"
+    ]
+  },
+  {
+    "id": "item-020",
+    "bend_no": "8.2.1.1",
+    "title": "Heyvandarlıq sahəsində normativ hüquqi aktların yenilənməsi",
+    "text": "Heyvandarlıq sahəsində normativ hüquqi aktların yenilənməsi",
+    "netice": "Heyvandarlıq və heyvan sağlamlığı üzrə beynəlxalq standartlara uyğun normativ hüquqi bazanın və texniki tənzimləmə sisteminin tətbiq edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi",
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "AQTA, İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "heyvandarlıq",
+      "baytarlıq"
+    ],
+    "keywords": [
+      "heyvandarlıq",
+      "standart"
+    ]
+  },
+  {
+    "id": "item-021",
+    "bend_no": "8.2.1.2",
+    "title": "Heyvan sağlamlığı üzrə göstərilən dövlət xidmətləri, eləcə də baytarlıq preparatları ilə təminat və xəstə heyvanların emal və utilizasiya infrastrukturunun inkişaf etdirilməsi",
+    "text": "Heyvan sağlamlığı üzrə göstərilən dövlət xidmətləri, eləcə də baytarlıq preparatları ilə təminat və xəstə heyvanların emal və utilizasiya infrastrukturunun inkişaf etdirilməsi",
+    "netice": "Heyvan xəstəliklərinin monitorinqi və vaksin izlənməsi üzrə rəqəmsal sistemin tətbiqi və baytarlıq xidmətlərinə əlçatanlığın artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN, AQTA",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "baytarlıq"
+    ],
+    "keywords": [
+      "baytarlıq",
+      "vaksin",
+      "dövlət-sanitar-mussisəsi"
+    ]
+  },
+  {
+    "id": "item-022",
+    "bend_no": "8.2.1.3",
+    "title": "Bitkiçilik sahəsində zərərli orqanizmlərin aşkarlanması sisteminin tətbiq edilməsi",
+    "text": "Bitkiçilik sahəsində zərərli orqanizmlərin aşkarlanması sisteminin tətbiq edilməsi",
+    "netice": "Qurulmuş xəbərdarlıq və monitorinq sisteminin məlumatları əsasında zərərvericilər və xəstəliklər barədə vaxtında proqnozların verilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi"
+    ],
+    "other_executor_codes": "AQTA",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "bitkiçilik"
+    ],
+    "keywords": [
+      "zərərverici",
+      "fitosanitar"
+    ]
+  },
+  {
+    "id": "item-023",
+    "bend_no": "8.2.1.4",
+    "title": "İnteqrir bitki mühafizə tədbirlərindən istifadənin genişləndirilməsi",
+    "text": "İnteqrir bitki mühafizə tədbirlərindən istifadənin genişləndirilməsi",
+    "netice": "İnteqrir mübarizə üsullarını tətbiq edən fermerlərin sayının artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "bitkiçilik"
+    ],
+    "keywords": [
+      "bitki-muhafizesi",
+      "dəstək"
+    ]
+  },
+  {
+    "id": "item-024",
+    "bend_no": "8.2.1.5",
+    "title": "Bitki mühafizəsi və fumiqasiya (zərərsizləşdirmə) işlərinin infrastruktur təminatının yaxşılaşdırılması",
+    "text": "Bitki mühafizəsi və fumiqasiya (zərərsizləşdirmə) işlərinin infrastruktur təminatının yaxşılaşdırılması",
+    "netice": "Bitki mühafizəsi və fumiqasiya işinin icrasının və monitorinqinin təmin edilməsi üçün proqram təminatının və müvafiq infrastrukturun qurulması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi"
+    ],
+    "other_executor_codes": "AQTA",
+    "muddet": "2026-2028",
+    "sahe_tags": [
+      "bitkiçilik"
+    ],
+    "keywords": [
+      "fumiqasiya",
+      "zərərsizləşdirmə"
+    ]
+  },
+  {
+    "id": "item-025",
+    "bend_no": "8.2.1.6",
+    "title": "Ölkə üzrə bütün iribuynuzlu və xırdabuynuzlu heyvanların dövlət hesabına birdəfəlik identifikasiyasının təşkili və elektron uçotunun aparılması",
+    "text": "Ölkə üzrə bütün iribuynuzlu və xırdabuynuzlu heyvanların dövlət hesabına birdəfəlik identifikasiyasının təşkili və elektron uçotunun aparılması",
+    "netice": "İribuynuzlu və xırdabuynuzlu heyvanların identifikasiyasının yekunlaşdırılması",
+    "executor": "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi",
+    "executor_code": "AQTA",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi"
+    ],
+    "other_executor_codes": "KTN",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "heyvandarlıq"
+    ],
+    "keywords": [
+      "identifikasiya",
+      "elektron-uçot",
+      "dövlət-hesabına"
+    ]
+  },
+  {
+    "id": "item-026",
+    "bend_no": "8.2.2.1",
+    "title": "Maliyyə institutlarının aqrar kreditləşmə ilə bağlı müraciətlərinin qiymətləndirilməsi imkanlarının gücləndirilməsi",
+    "text": "Maliyyə institutlarının aqrar kreditləşmə ilə bağlı müraciətlərinin qiymətləndirilməsi imkanlarının gücləndirilməsi",
+    "netice": "Maliyyə institutlarının məlumat ehtiyaclarının ödənilməsi sisteminin formalaşdırılması, aqrar sektor üzrə ixtisaslaşmış mütəxəssislərin sayının artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Tövsiyə olunur: AMB"
+    ],
+    "other_executor_codes": "İN, Tövsiyə olunur: AMB",
+    "muddet": "2026-2027",
+    "sahe_tags": [
+      "maliyyə"
+    ],
+    "keywords": [
+      "kredit",
+      "bank"
+    ]
+  },
+  {
+    "id": "item-027",
+    "bend_no": "8.2.2.2",
+    "title": "Fermerlərin güzəştli kreditlərə çıxışının yaxşılaşdırılması, kredit, zəmanət və faiz subsidiyası mexanizmlərinin genişləndirilməsi",
+    "text": "Fermerlərin güzəştli kreditlərə çıxışının yaxşılaşdırılması, kredit, zəmanət və faiz subsidiyası mexanizmlərinin genişləndirilməsi",
+    "netice": "Fermerlərin maliyyə resurslarına əlçatanlığının artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Tövsiyə olunur: AMB",
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "Tövsiyə olunur: AMB, İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "maliyyə"
+    ],
+    "keywords": [
+      "guzeştli-kredit",
+      "zamanet",
+      "faiz-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-028",
+    "bend_no": "8.2.2.3",
+    "title": "Aqrar Kredit Kooperativlərinin (AKK) və onların ittifaqının yaradılması, fəaliyyətinin dəstəklənməsi",
+    "text": "Aqrar Kredit Kooperativlərinin (AKK) və onların ittifaqının yaradılması, fəaliyyətinin dəstəklənməsi",
+    "netice": "Kollektiv kreditləşmə modeli əsasında fəaliyyət göstərən dayanıqlı aqrar kredit kooperativləri sisteminin formalaşdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Tövsiyə olunur: AMB"
+    ],
+    "other_executor_codes": "Tövsiyə olunur: AMB",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "maliyyə"
+    ],
+    "keywords": [
+      "kredit-kooperativi",
+      "akk"
+    ]
+  },
+  {
+    "id": "item-029",
+    "bend_no": "8.2.2.4",
+    "title": "Aqrar istehsal və emal sektorunda tətbiq edilən güzəştli kreditləşmə mexanizminin genişləndirilməsi",
+    "text": "Aqrar istehsal və emal sektorunda tətbiq edilən güzəştli kreditləşmə mexanizminin genişləndirilməsi",
+    "netice": "Prioritet istiqamətlər üzrə maliyyələşdirilmiş investisiya layihələrinin sayının artırılması (\"Azərbaycan Biznesinin İnkişafı Fondu\" ASC vasitəsilə)",
+    "executor": "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+    "executor_code": "İN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi"
+    ],
+    "other_executor_codes": "KTN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "maliyyə",
+      "emal"
+    ],
+    "keywords": [
+      "guzeştli-kredit",
+      "aibf",
+      "investisiya"
+    ]
+  },
+  {
+    "id": "item-030",
+    "bend_no": "8.2.2.5",
+    "title": "Aqrar sığorta və subsidiya mexanizmlərinin koordinasiyasının gücləndirilməsi",
+    "text": "Aqrar sığorta və subsidiya mexanizmlərinin koordinasiyasının gücləndirilməsi",
+    "netice": "Subsidiya və aqrar sığorta mexanizmlərinin koordinasiya səviyyəsinin artırılması və sığorta ödənişlərinin operativliyinin təmin edilməsi",
+    "executor": "Aqrar Sığorta Fondu",
+    "executor_code": "ASF",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi"
+    ],
+    "other_executor_codes": "KTN",
+    "muddet": "2026-2027",
+    "sahe_tags": [
+      "sığorta"
+    ],
+    "keywords": [
+      "aqrar-sigorta",
+      "subsidiya"
+    ]
+  },
+  {
+    "id": "item-031",
+    "bend_no": "8.2.2.6",
+    "title": "Aqrar sığortanın əhatə dairəsinin genişləndirilməsi",
+    "text": "Aqrar sığortanın əhatə dairəsinin genişləndirilməsi",
+    "netice": "Aqrar sığorta mexanizmi çərçivəsində təminat verilən sığorta predmetlərinin və risklərin sayının artırılması (bitkiçilik, heyvandarlıq, balıqçılıq)",
+    "executor": "Aqrar Sığorta Fondu",
+    "executor_code": "ASF",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi"
+    ],
+    "other_executor_codes": "KTN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "sığorta"
+    ],
+    "keywords": [
+      "aqrar-sigorta",
+      "risk"
+    ]
+  },
+  {
+    "id": "item-032",
+    "bend_no": "8.2.2.7",
+    "title": "\"Aqrar sığorta\" informasiya sisteminin funksional imkanlarının genişləndirilməsi",
+    "text": "\"Aqrar sığorta\" informasiya sisteminin funksional imkanlarının genişləndirilməsi",
+    "netice": "Aqrar sığorta xidmətlərinin tam elektron formada icra edilməsi, əlçatanlığın artırılması",
+    "executor": "Aqrar Sığorta Fondu",
+    "executor_code": "ASF",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi"
+    ],
+    "other_executor_codes": "KTN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "sığorta"
+    ],
+    "keywords": [
+      "asis",
+      "elektron-sigorta"
+    ]
+  },
+  {
+    "id": "item-033",
+    "bend_no": "8.2.2.8",
+    "title": "Aqrar sığorta sahəsi üzrə risk və zərərlərin qiymətləndirilməsi metodologiyasının və müstəqil ekspertlər institutunun inkişaf etdirilməsi",
+    "text": "Aqrar sığorta sahəsi üzrə risk və zərərlərin qiymətləndirilməsi metodologiyasının və müstəqil ekspertlər institutunun inkişaf etdirilməsi",
+    "netice": "Aqrar sığorta sahəsi üzrə risk xəritələrinin hazırlanması, zərərlərin qiymətləndirilməsi metodologiyalarının tətbiqi, azı 100 müstəqil ekspertin fəaliyyət göstərməsi",
+    "executor": "Aqrar Sığorta Fondu",
+    "executor_code": "ASF",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+      "Azərbaycan Respublikasının Dövlət İmtahan Mərkəzi"
+    ],
+    "other_executor_codes": "KTN, DİM",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "sığorta"
+    ],
+    "keywords": [
+      "risk-xəritəsi",
+      "ekspert"
+    ]
+  },
+  {
+    "id": "item-034",
+    "bend_no": "8.2.2.9",
+    "title": "Aqrar sığorta haqlarının dövlət hesabına ödənilən hissəsinin subyektlər, predmet və risklərə münasibətdə diferensiallaşdırılması",
+    "text": "Aqrar sığorta haqlarının dövlət hesabına ödənilən hissəsinin subyektlər, predmet və risklərə münasibətdə diferensiallaşdırılması",
+    "netice": "Aqrar sahədə diferensiallaşdırılmış sığorta sisteminin tam tətbiq edilməsi",
+    "executor": "Aqrar Sığorta Fondu",
+    "executor_code": "ASF",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi"
+    ],
+    "other_executor_codes": "KTN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "sığorta"
+    ],
+    "keywords": [
+      "sigorta-haqqi-subsidiyasi",
+      "dovlet-destegi"
+    ]
+  },
+  {
+    "id": "item-035",
+    "bend_no": "8.2.3.1",
+    "title": "Aqrar informasiya-məsləhət sisteminin formalaşdırılması",
+    "text": "Aqrar informasiya-məsləhət sisteminin formalaşdırılması",
+    "netice": "Ölkə üzrə informasiya-məsləhət xidmətləri şəbəkəsinin yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "məsləhət"
+    ],
+    "keywords": [
+      "informasiya-mesleht",
+      "danışıqçı"
+    ]
+  },
+  {
+    "id": "item-036",
+    "bend_no": "8.2.3.2",
+    "title": "Aqroekoloji məlumatlar əsasında bölgələrin müxtəlif məhsullar üzrə ixtisaslaşmasının aparılması və fermerlərin məlumatlandırılması",
+    "text": "Aqroekoloji məlumatlar əsasında bölgələrin müxtəlif məhsullar üzrə ixtisaslaşmasının aparılması və fermerlərin məlumatlandırılması",
+    "netice": "Ölkədə aqrar məhsullar üzrə ixtisaslaşmanın tamamlanması və fermerlərin məlumatlılıq səviyyəsinin artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi"
+    ],
+    "other_executor_codes": "ETSN",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "məsləhət"
+    ],
+    "keywords": [
+      "aqroekologiya",
+      "ixtisaslaşma"
+    ]
+  },
+  {
+    "id": "item-037",
+    "bend_no": "8.2.3.3",
+    "title": "Orqanik kənd təsərrüfatı məhsulları istehsalı ilə bağlı fermerlərin məlumatlandırılması",
+    "text": "Orqanik kənd təsərrüfatı məhsulları istehsalı ilə bağlı fermerlərin məlumatlandırılması",
+    "netice": "Orqanik kənd təsərrüfatı ilə bağlı nümunəvi təsərrüfat modellərinin formalaşdırılması, fermerlərin orqanik təsərrüfatçılıqla bağlı məlumatlılıq səviyyəsinin artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi",
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "AQTA, İN",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "orqanik"
+    ],
+    "keywords": [
+      "orqanik-kend-teserrufati",
+      "pilot"
+    ]
+  },
+  {
+    "id": "item-038",
+    "bend_no": "8.3.1.1",
+    "title": "Pambıq emalı sənayesinin inkişaf etdirilməsi",
+    "text": "Pambıq emalı sənayesinin inkişaf etdirilməsi",
+    "netice": "Pambıq mahlıcının iplik istehsalına yönəldilən hissəsinin, eləcə də ipliyin parça istehsalına yönəldilən hissəsinin artırılması (iplik/parça istehsalına güzəştli kreditlər, pambıq mahlıcı/ipliyi üçün məhsul subsidiyası)",
+    "executor": "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+    "executor_code": "İN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi"
+    ],
+    "other_executor_codes": "KTN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "emal",
+      "pambıq"
+    ],
+    "keywords": [
+      "pambiq",
+      "iplik",
+      "mehsul-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-039",
+    "bend_no": "8.3.1.2",
+    "title": "Bitki yağlarının istehsalı klasterinin formalaşdırılmasının təşviqi",
+    "text": "Bitki yağlarının istehsalı klasterinin formalaşdırılmasının təşviqi",
+    "netice": "Azı 2 bitki yağı emalı zavodunun yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "emal"
+    ],
+    "keywords": [
+      "bitki-yagi",
+      "klaster",
+      "investisiya-teşviqi"
+    ]
+  },
+  {
+    "id": "item-040",
+    "bend_no": "8.3.1.3",
+    "title": "Şərab istehsalının təşviqi",
+    "text": "Şərab istehsalının təşviqi",
+    "netice": "Kiçik butik tipli şərab istehsalçılarının sayının 20-yə çatdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "emal",
+      "üzümçülük"
+    ],
+    "keywords": [
+      "sarab",
+      "boutik"
+    ]
+  },
+  {
+    "id": "item-041",
+    "bend_no": "8.3.1.4",
+    "title": "Meyvə-tərəvəz məhsullarının emalı sahələrinin inkişafının təşviqi",
+    "text": "Meyvə-tərəvəz məhsullarının emalı sahələrinin inkişafının təşviqi",
+    "netice": "Emal edilən meyvə-tərəvəz məhsullarının həcminin davamlı artması (emala yönələn xammala məhsul subsidiyası)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "emal",
+      "meyvə-tərəvəz"
+    ],
+    "keywords": [
+      "meyve-tereveze-emal",
+      "mehsul-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-042",
+    "bend_no": "8.3.1.5",
+    "title": "Süd emalı sahələrinin inkişafının təşviqi",
+    "text": "Süd emalı sahələrinin inkişafının təşviqi",
+    "netice": "Emal edilən yerli südün həcminin davamlı artması (emala yönəlmiş südə subsidiya, müddətli vergi güzəştləri)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "emal",
+      "süd"
+    ],
+    "keywords": [
+      "sud-emali",
+      "vergi-guzeşti",
+      "subsidiya"
+    ]
+  },
+  {
+    "id": "item-043",
+    "bend_no": "8.3.1.6",
+    "title": "Ət məhsulları emalı sahələrinin inkişafının təşviqi",
+    "text": "Ət məhsulları emalı sahələrinin inkişafının təşviqi",
+    "netice": "Ət və ət məhsulları istehsalının həcminin davamlı artması (kəsimxanada kəsilən iribuynuzlu heyvanlara subsidiya, müddətli vergi güzəştləri)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "emal",
+      "ət"
+    ],
+    "keywords": [
+      "et-emali",
+      "vergi-guzeşti"
+    ]
+  },
+  {
+    "id": "item-044",
+    "bend_no": "8.3.1.7",
+    "title": "Gön-dəri və yun xammalının emala yönəldilməsinin dəstəklənməsi",
+    "text": "Gön-dəri və yun xammalının emala yönəldilməsinin dəstəklənməsi",
+    "netice": "Emal və ixrac edilən gön-dəri və yunun həcminin davamlı artması (toplama məntəqələri dəstəyi, yun/dəri üçün məhsul subsidiyası)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "emal"
+    ],
+    "keywords": [
+      "yun",
+      "gon-deri",
+      "mehsul-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-045",
+    "bend_no": "8.3.2.1",
+    "title": "Gübrə istehsalının təşviqi",
+    "text": "Gübrə istehsalının təşviqi",
+    "netice": "Gübrə istehsalının artırılması və daxili tələbatın təminat səviyyəsinin yerli istehsal hesabına yüksəldilməsi",
+    "executor": "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+    "executor_code": "İN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi"
+    ],
+    "other_executor_codes": "KTN, AQTA",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "istehsal-vasiteleri"
+    ],
+    "keywords": [
+      "gubre",
+      "investisiya-teşviqi"
+    ]
+  },
+  {
+    "id": "item-046",
+    "bend_no": "8.3.2.2",
+    "title": "Yem istehsalının təşviqi",
+    "text": "Yem istehsalının təşviqi",
+    "netice": "Yerli yem istehsalının və yem təminatında yerli istehsalın payının artırılması (vergi və gömrük güzəştləri)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "istehsal-vasiteleri"
+    ],
+    "keywords": [
+      "yem",
+      "vergi-gomruk-guzeşti"
+    ]
+  },
+  {
+    "id": "item-047",
+    "bend_no": "8.3.3.1",
+    "title": "Südtoplama məntəqələrinin logistika infrastrukturunun yaxşılaşdırılması və süd təchizatı zəncirinin dəstəklənməsi",
+    "text": "Südtoplama məntəqələrinin logistika infrastrukturunun yaxşılaşdırılması və süd təchizatı zəncirinin dəstəklənməsi",
+    "netice": "Regionlar üzrə süd təchizatı zəncirinin optimallaşdırılması və sənaye emalına yönəldilən süd həcminin artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi"
+    ],
+    "other_executor_codes": "İN, AQTA",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "logistika",
+      "süd"
+    ],
+    "keywords": [
+      "sud-toplama",
+      "logistika"
+    ]
+  },
+  {
+    "id": "item-048",
+    "bend_no": "8.3.3.2",
+    "title": "Kənd təsərrüfatı təyinatlı soyuducu anbar şəbəkəsinin genişləndirilməsi",
+    "text": "Kənd təsərrüfatı təyinatlı soyuducu anbar şəbəkəsinin genişləndirilməsi",
+    "netice": "Regionlar üzrə soyuducu anbarların həcminin 100 min ton artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "logistika"
+    ],
+    "keywords": [
+      "soyuducu-anbar",
+      "infrastruktur-destegi"
+    ]
+  },
+  {
+    "id": "item-049",
+    "bend_no": "8.3.3.3",
+    "title": "Taxıl saxlanması üzrə logistika sistemlərinin inkişaf etdirilməsi",
+    "text": "Taxıl saxlanması üzrə logistika sistemlərinin inkişaf etdirilməsi",
+    "netice": "Taxıl saxlanma həcminin azı 150 min kubmetr artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "logistika",
+      "taxılçılıq"
+    ],
+    "keywords": [
+      "taxil-silosu",
+      "dəstək-mexanizmi"
+    ]
+  },
+  {
+    "id": "item-050",
+    "bend_no": "8.3.3.4",
+    "title": "Ərzaq məhsullarının dövlət sifarişi ilə satınalma sisteminin institusional və funksional baxımdan gücləndirilməsi",
+    "text": "Ərzaq məhsullarının dövlət sifarişi ilə satınalma sisteminin institusional və funksional baxımdan gücləndirilməsi",
+    "netice": "Ərzaq məhsullarının mərkəzləşdirilmiş qaydada dövlət büdcəsinin vəsaiti hesabına satın alınması prosesində istehsalçı fermerlərdən və emalçılardan alış payının artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Antiinhisar və İstehlak Bazarına Nəzarət Dövlət Agentliyi"
+    ],
+    "other_executor_codes": "AİBNDA",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "logistika"
+    ],
+    "keywords": [
+      "dovlet-sifarisi",
+      "satinalma"
+    ]
+  },
+  {
+    "id": "item-051",
+    "bend_no": "8.3.4.1",
+    "title": "İxracyönümlü aqrobizneslər üçün ixracın təşviqi üzrə ünvanlı dəstək mexanizmlərinin yaradılması və icrası",
+    "text": "İxracyönümlü aqrobizneslər üçün ixracın təşviqi üzrə ünvanlı dəstək mexanizmlərinin yaradılması və icrası",
+    "netice": "Qeyri-ənənəvi xarici bazarlara ixrac həcminin artırılması",
+    "executor": "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+    "executor_code": "İN, KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "ixrac"
+    ],
+    "keywords": [
+      "ixrac-destegi",
+      "aqrobiznes"
+    ]
+  },
+  {
+    "id": "item-052",
+    "bend_no": "8.3.4.2",
+    "title": "Aqrar istehsal və emal müəssisələrinin kommunal infrastruktura çıxış imkanın artırılması",
+    "text": "Aqrar istehsal və emal müəssisələrinin kommunal infrastruktura çıxış imkanın artırılması",
+    "netice": "Aqrar istehsal və emal müəssisələrinin enerji, su və qaz təminatı infrastrukturunun genişləndirilməsi və kommunal xidmətlərə çıxış imkanlarının artırılması (texniki şərtin alınmasının subsidiyalaşdırılması)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN, İN",
+    "other_executors": [
+      "\"Azərişıq\" ASC",
+      "digər aidiyyəti orqanlar (qurumlar)"
+    ],
+    "other_executor_codes": "\"Azərişıq\" ASC, digər aidiyyəti orqanlar (qurumlar)",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "infrastruktur"
+    ],
+    "keywords": [
+      "kommunal-qoşulma",
+      "subsidiya"
+    ]
+  },
+  {
+    "id": "item-053",
+    "bend_no": "8.3.4.3",
+    "title": "İstixana sahələrinin inkişafı üçün stimullaşdırma mexanizmlərinin tətbiqi",
+    "text": "İstixana sahələrinin inkişafı üçün stimullaşdırma mexanizmlərinin tətbiqi",
+    "netice": "250 hektar sahədə yeni istixana qurulması (o cümlədən Şərqi Zəngəzurda 122 hektar), fəaliyyətini dayandırmış 250 hektar istixananın modernləşdirilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "istixana"
+    ],
+    "keywords": [
+      "istixana",
+      "ortulu-sahe",
+      "elektrik-qoşulma-subsidiyasi",
+      "avadanliq-guzeştli-satiş"
+    ]
+  },
+  {
+    "id": "item-054",
+    "bend_no": "8.3.4.4",
+    "title": "İntensiv bağların genişləndirilməsinin dəstəklənməsi",
+    "text": "İntensiv bağların genişləndirilməsinin dəstəklənməsi",
+    "netice": "Ölkə üzrə intensiv bağların sahəsinin 70 min hektara çatdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "bağçılıq"
+    ],
+    "keywords": [
+      "intensiv-bag",
+      "dovlet-destegi"
+    ]
+  },
+  {
+    "id": "item-055",
+    "bend_no": "8.3.4.5",
+    "title": "Kənd təsərrüfatı məhsulları istehsalçılarının qlobal və regional bazarlarda qəbul edilən sertifikatları əldə etməsi məqsədilə subsidiya mexanizmlərinin formalaşdırılması və tətbiq edilməsi",
+    "text": "Kənd təsərrüfatı məhsulları istehsalçılarının qlobal və regional bazarlarda qəbul edilən sertifikatları əldə etməsi məqsədilə subsidiya mexanizmlərinin formalaşdırılması və tətbiq edilməsi",
+    "netice": "Hər il azı 2 istehsalçının qlobal bazarlarda tanınan sertifikat almasının dəstəklənməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Antiinhisar və İstehlak Bazarına Nəzarət Dövlət Agentliyi",
+      "Azərbaycan Respublikasının Qida Təhlükəsizliyi Agentliyi"
+    ],
+    "other_executor_codes": "İN, AİBNDA, AQTA",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "ixrac"
+    ],
+    "keywords": [
+      "sertifikatlaşdirma",
+      "subsidiya"
+    ]
+  },
+  {
+    "id": "item-056",
+    "bend_no": "8.3.4.6",
+    "title": "Aqroparkların yeni inkişaf modelinə keçidinin dəstəklənməsi",
+    "text": "Aqroparkların yeni inkişaf modelinə keçidinin dəstəklənməsi",
+    "netice": "Aqroparklar üzrə istehsal həcminin artırılması, azı 5 aqroparkın ixracyönümlü fəaliyyətinin təmin edilməsi",
+    "executor": "KTN (Yevlax aqroparkına münasibətdə İN)",
+    "executor_code": "KTN (Yevlax aqroparkına münasibətdə İN)",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "aqropark"
+    ],
+    "keywords": [
+      "aqropark",
+      "ixrac"
+    ]
+  },
+  {
+    "id": "item-057",
+    "bend_no": "8.3.4.7",
+    "title": "Yerli aqrar məhsullarının brendləşdirilməsi",
+    "text": "Yerli aqrar məhsullarının brendləşdirilməsi",
+    "netice": "Regional brend statusu əldə etmiş məhsulların sayının artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "brendləşdirmə"
+    ],
+    "keywords": [
+      "brend",
+      "regional-mehsul"
+    ]
+  },
+  {
+    "id": "item-058",
+    "bend_no": "8.4.1.1",
+    "title": "Kənd təsərrüfatında data əsaslı effektiv idarəetmənin təşkili üçün süni intellekt həllərinin genişləndirilməsi",
+    "text": "Kənd təsərrüfatında data əsaslı effektiv idarəetmənin təşkili üçün süni intellekt həllərinin genişləndirilməsi",
+    "netice": "Süni intellektdən istifadə etməklə hazırlanan modulların sayının 30-a çatdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "rəqəmsallaşma"
+    ],
+    "keywords": [
+      "suni-intellekt",
+      "data"
+    ]
+  },
+  {
+    "id": "item-059",
+    "bend_no": "8.4.1.2",
+    "title": "EKTİS-in mövcud altsistemlərinin imkanlarının genişləndirilməsi",
+    "text": "EKTİS-in mövcud altsistemlərinin imkanlarının genişləndirilməsi",
+    "netice": "EKTİS-in kənd təsərrüfatı sahəsində fəaliyyət göstərən subyektləri zəruri olan xidmət və informasiyaları təmin edən vahid platformaya çevrilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Rəqəmsal İnkişaf və Nəqliyyat Nazirliyi",
+      "digər qurumlar"
+    ],
+    "other_executor_codes": "RİNN, digər qurumlar",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "rəqəmsallaşma"
+    ],
+    "keywords": [
+      "ektis",
+      "elektron-platforma"
+    ]
+  },
+  {
+    "id": "item-060",
+    "bend_no": "8.4.1.3",
+    "title": "Kənd təsərrüfatı texnikasına texniki nəzarətin institusional təşkilinin təkmilləşdirilməsi və maddi-texniki baza baxımından gücləndirilməsi",
+    "text": "Kənd təsərrüfatı texnikasına texniki nəzarətin institusional təşkilinin təkmilləşdirilməsi və maddi-texniki baza baxımından gücləndirilməsi",
+    "netice": "Kənd təsərrüfatı texnikasına texniki nəzarətin yeni mexanizmlər əsasında təmin edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "texnika"
+    ],
+    "keywords": [
+      "texniki-nezaret"
+    ]
+  },
+  {
+    "id": "item-061",
+    "bend_no": "8.4.1.4",
+    "title": "Azərbaycan Respublikası Kənd Təsərrüfatı Nazirliyinin tabeliyində fəaliyyət göstərən qurumlarda idarəetmənin səmərəliliyinin artırılması",
+    "text": "Azərbaycan Respublikası Kənd Təsərrüfatı Nazirliyinin tabeliyində fəaliyyət göstərən qurumlarda idarəetmənin səmərəliliyinin artırılması",
+    "netice": "Nazirliyin tabeliyindəki qurumlarda optimallaşdırılmanın aparılması, korporativ idarəetmənin tətbiqi ilə bağlı islahatların həyata keçirilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2027-2028",
+    "sahe_tags": [
+      "idarəetmə"
+    ],
+    "keywords": [
+      "institusional-islahat"
+    ]
+  },
+  {
+    "id": "item-062",
+    "bend_no": "8.4.1.5",
+    "title": "Aqrar sahədə normativ hüquqi bazanın təkmilləşdirilməsi",
+    "text": "Aqrar sahədə normativ hüquqi bazanın təkmilləşdirilməsi",
+    "netice": "\"Aqrar sahə haqqında\" Azərbaycan Respublikasının Qanunu layihəsinin hazırlanması və qəbul edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2027",
+    "sahe_tags": [
+      "idarəetmə"
+    ],
+    "keywords": [
+      "qanun",
+      "huquqi-baza"
+    ]
+  },
+  {
+    "id": "item-063",
+    "bend_no": "8.4.2.1",
+    "title": "İribuynuzlu heyvandarlıqda cins tərkibinin yaxşılaşdırılması və yeni dəstək mexanizmlərinin tətbiqi",
+    "text": "İribuynuzlu heyvandarlıqda cins tərkibinin yaxşılaşdırılması və yeni dəstək mexanizmlərinin tətbiqi",
+    "netice": "Yüksək məhsuldar cins heyvanların ümumi sürüdə payının minimum 10 faizə çatması, mal əti istehsalı həcminin 20 faiz, süd istehsalı həcminin 10 faiz artırılması (damazlıq heyvanların güzəştlə satışı, heyvan və məhsul subsidiyası, süni mayalanmada diferensiallaşdırılmış dəstək)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "heyvandarlıq",
+      "süd"
+    ],
+    "keywords": [
+      "damazliq",
+      "guzeştli-satiş",
+      "heyvan-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-064",
+    "bend_no": "8.4.2.2",
+    "title": "Qoyunçuluqda cins tərkibinin yaxşılaşdırılmasının, yarım intensiv təsərrüfatların formalaşdırılmasının dəstəklənməsi",
+    "text": "Qoyunçuluqda cins tərkibinin yaxşılaşdırılmasının, yarım intensiv təsərrüfatların formalaşdırılmasının dəstəklənməsi",
+    "netice": "Qoyun əti istehsalı həcminin azı 9 faiz artırılması (artezian quyularının qazılmasının subsidiyalaşdırılması)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "heyvandarlıq"
+    ],
+    "keywords": [
+      "qoyunçuluq",
+      "artezian-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-065",
+    "bend_no": "8.4.2.3",
+    "title": "Quşçuluq sahəsinin inkişafının stimullaşdırılması",
+    "text": "Quşçuluq sahəsinin inkişafının stimullaşdırılması",
+    "netice": "Quş əti istehsalının 30 faiz, yumurta istehsalının 27 faiz artırılması (toyuq damı/kəsimxana qurulması dəstəyi, emal müəssisəsi yaradılması dəstəyi)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "heyvandarlıq"
+    ],
+    "keywords": [
+      "qusculuq",
+      "yumurta",
+      "destek-mexanizmi"
+    ]
+  },
+  {
+    "id": "item-066",
+    "bend_no": "8.4.2.4",
+    "title": "Kənd təsərrüfatı texnikası və avadanlıqlarının satışına tətbiq olunan güzəşt mexanizmlərinin effektivliyinin artırılması",
+    "text": "Kənd təsərrüfatı texnikası və avadanlıqlarının satışına tətbiq olunan güzəşt mexanizmlərinin effektivliyinin artırılması",
+    "netice": "Prioritetlərə və ehtiyaclara uyğun olaraq aqrar sahənin texnika və avadanlıqlarla təminatının yaxşılaşdırılması (kombayn, traktor, lazerli mala və s. üçün diferensial güzəşt və güzəştli kreditləşmə)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "texnika"
+    ],
+    "keywords": [
+      "texnika-guzeşti",
+      "kombayn",
+      "traktor"
+    ]
+  },
+  {
+    "id": "item-067",
+    "bend_no": "8.4.2.5",
+    "title": "Aqrar istehsal və emal sahələrində vergi siyasətinin dəyər zənciri üzrə optimallaşdırılması",
+    "text": "Aqrar istehsal və emal sahələrində vergi siyasətinin dəyər zənciri üzrə optimallaşdırılması",
+    "netice": "Kənd təsərrüfatı və aqrar dəyər zəncirində rəqabətqabiliyyətliliyin, investisiya fəallığının, əlavə dəyərin yaradılmasının və iqtisadi səmərəliliyin artırılması",
+    "executor": "Azərbaycan Respublikasının Nazirlər Kabineti",
+    "executor_code": "NK",
+    "other_executors": [
+      "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Dövlət Gömrük Komitəsi"
+    ],
+    "other_executor_codes": "KTN, İN, DGK",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "vergi"
+    ],
+    "keywords": [
+      "vergi-siyaseti",
+      "deyer-zenciri"
+    ]
+  },
+  {
+    "id": "item-068",
+    "bend_no": "8.4.2.6",
+    "title": "Buğda istehsalının artırılması ilə bağlı stimullaşdırma tədbirlərinin həyata keçirilməsi",
+    "text": "Buğda istehsalının artırılması ilə bağlı stimullaşdırma tədbirlərinin həyata keçirilməsi",
+    "netice": "Buğda məhsuldarlığının ixtisaslaşmış rayonlarda 50 sentner/hektara çatdırılması, buğda istehsalı həcminin ölkə üzrə 20 faiz artırılması (lazerli mala tətbiqinin subsidiyalaşdırılması)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "taxılçılıq"
+    ],
+    "keywords": [
+      "bugda",
+      "lazerli-mala-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-069",
+    "bend_no": "8.4.2.7",
+    "title": "Pambıq istehsalının artırılması ilə bağlı stimullaşdırma tədbirlərinin həyata keçirilməsi",
+    "text": "Pambıq istehsalının artırılması ilə bağlı stimullaşdırma tədbirlərinin həyata keçirilməsi",
+    "netice": "İxtisaslaşmış rayonlar üzrə pambığın məhsuldarlığının 50 sentner/hektara çatdırılması, pambığın istehsal həcminin 17 faiz artırılması (məhsul istehsalına subsidiya, lazerli mala subsidiyası)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "pambıq"
+    ],
+    "keywords": [
+      "pambiq",
+      "mehsul-subsidiyasi"
+    ]
+  },
+  {
+    "id": "item-070",
+    "bend_no": "8.4.2.8",
+    "title": "Kənd təsərrüfatı fəaliyyəti ilə məşğul olan qadın və gənc fermerlər üçün xüsusi dəstək mexanizmlərinin və layihələrinin həyata keçirilməsi",
+    "text": "Kənd təsərrüfatı fəaliyyəti ilə məşğul olan qadın və gənc fermerlər üçün xüsusi dəstək mexanizmlərinin və layihələrinin həyata keçirilməsi",
+    "netice": "Kənd təsərrüfatı fəaliyyəti ilə məşğul olan qadın və gənc fermerlərin sayının artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Mərkəzi Bankı"
+    ],
+    "other_executor_codes": "İN, AMB",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "sosial"
+    ],
+    "keywords": [
+      "qadin-fermer",
+      "genc-fermer"
+    ]
+  },
+  {
+    "id": "item-071",
+    "bend_no": "8.4.2.9",
+    "title": "Kənd təsərrüfatında kooperasiyalaşma və assosiasiyaların inkişafının dəstəklənməsi",
+    "text": "Kənd təsərrüfatında kooperasiyalaşma və assosiasiyaların inkişafının dəstəklənməsi",
+    "netice": "Ümumilikdə 5 funksional nümunəvi kooperativin, 3 funksional nümunəvi assosiasiyanın (ittifaqın) fəaliyyətə başlaması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Naxçıvan Muxtar Respublikasının Nazirlər Kabineti"
+    ],
+    "other_executor_codes": "İN, NMRNK",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "kooperasiya"
+    ],
+    "keywords": [
+      "kooperativ",
+      "assosiasiya",
+      "dovlet-destegi"
+    ]
+  },
+  {
+    "id": "item-072",
+    "bend_no": "8.4.3.1",
+    "title": "Aqrar sahədə ikili diplom proqramlarının genişləndirilməsi və xarici universitetlə birgə universitetin yaradılması",
+    "text": "Aqrar sahədə ikili diplom proqramlarının genişləndirilməsi və xarici universitetlə birgə universitetin yaradılması",
+    "netice": "Aqrar ixtisaslar üzrə ikili diplom proqramlarından məzun olanların ümumi sayının 500-ə çatdırılması, bir xarici universitetlə əməkdaşlıq çərçivəsində birgə universitetin yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Elm və Təhsil Nazirliyi"
+    ],
+    "other_executor_codes": "ETN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "təhsil"
+    ],
+    "keywords": [
+      "ikili-diplom",
+      "tehsil"
+    ]
+  },
+  {
+    "id": "item-073",
+    "bend_no": "8.4.3.2",
+    "title": "Aqrar sahə üzrə peşə standartlarının hazırlanması və təhsilin məzmununun yenilənməsi",
+    "text": "Aqrar sahə üzrə peşə standartlarının hazırlanması və təhsilin məzmununun yenilənməsi",
+    "netice": "Azı 30 yeni peşə və kvalifikasiya standartının hazırlanması, azı 10 proqramın kurikulumunun yenilənməsi",
+    "executor": "Azərbaycan Respublikasının Əmək və Əhalinin Sosial Müdafiəsi Nazirliyi",
+    "executor_code": "ƏƏSMN, KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Elm və Təhsil Nazirliyi",
+      "Azərbaycan Respublikasının Dövlət İmtahan Mərkəzi"
+    ],
+    "other_executor_codes": "ETN, DİM",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "təhsil"
+    ],
+    "keywords": [
+      "peşe-standarti",
+      "kurikulum"
+    ]
+  },
+  {
+    "id": "item-074",
+    "bend_no": "8.4.3.3",
+    "title": "Aqrar sahədə fəaliyyət göstərən mütəxəssislərin reyestrinin yaradılması və onların təlim proqramlarına cəlb edilməsi",
+    "text": "Aqrar sahədə fəaliyyət göstərən mütəxəssislərin reyestrinin yaradılması və onların təlim proqramlarına cəlb edilməsi",
+    "netice": "Aqrar sahədə fəaliyyət göstərən bütün istiqamətlər üzrə mütəxəssislərin reyestrinin yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "təhsil"
+    ],
+    "keywords": [
+      "mutexessis-reyestri",
+      "telim"
+    ]
+  },
+  {
+    "id": "item-075",
+    "bend_no": "8.4.3.4",
+    "title": "Aqrar sahədə qeyri-formal məşğulluğun azaldılması",
+    "text": "Aqrar sahədə qeyri-formal məşğulluğun azaldılması",
+    "netice": "Kənd təsərrüfatında qeyri-formal məşğulluq səviyyəsinin mərhələli azaldılmasına dair zəruri təkliflərin hazırlanması, normativ hüquqi bazanın təkmilləşdirilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN, ƏƏSMN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi",
+      "Azərbaycan Respublikasının Dövlət Statistika Komitəsi"
+    ],
+    "other_executor_codes": "İN, DSK",
+    "muddet": "2026-2027",
+    "sahe_tags": [
+      "sosial"
+    ],
+    "keywords": [
+      "qeyri-formal-meşğulluq"
+    ]
+  },
+  {
+    "id": "item-076",
+    "bend_no": "8.4.3.5",
+    "title": "Elmi tədqiqat institutlarının idarəetmə sistemlərinin modernləşdirilməsi, institusional islahatlar aparılması",
+    "text": "Elmi tədqiqat institutlarının idarəetmə sistemlərinin modernləşdirilməsi, institusional islahatlar aparılması",
+    "netice": "Beynəlxalq təcrübə nəzərə alınmaqla elmi tədqiqat institutlarının idarəetmə sistemlərinin təkmilləşdirilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2027",
+    "sahe_tags": [
+      "elm"
+    ],
+    "keywords": [
+      "elmi-tedqiqat",
+      "institusional-islahat"
+    ]
+  },
+  {
+    "id": "item-077",
+    "bend_no": "8.4.3.6",
+    "title": "Beynəlxalq elmi tədqiqat mərkəzləri ilə əməkdaşlığın genişləndirilməsi",
+    "text": "Beynəlxalq elmi tədqiqat mərkəzləri ilə əməkdaşlığın genişləndirilməsi",
+    "netice": "Beynəlxalq tərəfdaş mərkəzlərlə birlikdə azı bir mükəmməllik və innovasiya mərkəzinin yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2027-2030",
+    "sahe_tags": [
+      "elm"
+    ],
+    "keywords": [
+      "beynelxalq-emekdaşliq",
+      "innovasiya-merkezi"
+    ]
+  },
+  {
+    "id": "item-078",
+    "bend_no": "8.4.3.7",
+    "title": "Aparılan elmi tədqiqatların müasir tələblərə uyğun olaraq keyfiyyətinin yüksəldilməsi və gənclər arasında elmi tədqiqatların aparılmasına marağın artırılması",
+    "text": "Aparılan elmi tədqiqatların müasir tələblərə uyğun olaraq keyfiyyətinin yüksəldilməsi və gənclər arasında elmi tədqiqatların aparılmasına marağın artırılması",
+    "netice": "İndeksləşdirilmiş jurnallarda çap olunan məqalələrin sayının 2027-ci ildən başlayaraq hər il 10 faiz artması, aqrar sahədə elmi tədqiqatlarla məşğul olan gənc alimlərin sayının artırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "elm"
+    ],
+    "keywords": [
+      "elmi-tedqiqat",
+      "genc-alim"
+    ]
+  },
+  {
+    "id": "item-079",
+    "bend_no": "8.4.3.8",
+    "title": "Elmi tədqiqat institutlarının infrastruktur təminatının yaxşılaşdırılması",
+    "text": "Elmi tədqiqat institutlarının infrastruktur təminatının yaxşılaşdırılması",
+    "netice": "Elmi tədqiqat institutlarının müasir tələblərə uyğun infrastrukturla təminat səviyyəsinin artırılması (o cümlədən balıq və su bioresurs ehtiyatlarının tədqiqi üçün elmi tədqiqat gəmisi)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "elm"
+    ],
+    "keywords": [
+      "laboratoriya",
+      "infrastruktur"
+    ]
+  },
+  {
+    "id": "item-080",
+    "bend_no": "8.5.1.1",
+    "title": "Balıqçılıq və akvakultura sahəsində normativ hüquqi bazanın müasir tələblərə uyğunlaşdırılması",
+    "text": "Balıqçılıq və akvakultura sahəsində normativ hüquqi bazanın müasir tələblərə uyğunlaşdırılması",
+    "netice": "Balıqçılıq və akvakultura sahəsində beynəlxalq standartlara uyğun normativ hüquqi bazanın yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi"
+    ],
+    "other_executor_codes": "ETSN",
+    "muddet": "2026-2027",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "akvakultura",
+      "huquqi-baza"
+    ]
+  },
+  {
+    "id": "item-081",
+    "bend_no": "8.5.1.2",
+    "title": "Balıqçılıq və akvakultura sahəsində nəzarət və idarəetmə sistemlərinin modernləşdirilməsi və rəqəmsallaşdırılması",
+    "text": "Balıqçılıq və akvakultura sahəsində nəzarət və idarəetmə sistemlərinin modernləşdirilməsi və rəqəmsallaşdırılması",
+    "netice": "Balıqçılıq və akvakultura sahəsində sanitariya nəzarəti sisteminin beynəlxalq tələblərə uyğun təşkili, nəzarət və idarəetməni həyata keçirmək üçün informasiya sisteminin yaradılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2028",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "akvakultura",
+      "elektron-izleme"
+    ]
+  },
+  {
+    "id": "item-082",
+    "bend_no": "8.5.1.3",
+    "title": "Balıq ovunun dayanıqlı əsaslarla təşkili, izlənməsi və bu sahədə nəzarətin gücləndirilməsi",
+    "text": "Balıq ovunun dayanıqlı əsaslarla təşkili, izlənməsi və bu sahədə nəzarətin gücləndirilməsi",
+    "netice": "Balıq ehtiyatlarının qorunması və ekoloji balansın saxlanılması üçün balıq ovunun ekosistemə daha uyğun prinsiplər əsasında aparılması və balıq ovuna nəzarətin təşkil edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının Daxili İşlər Nazirliyi",
+      "Azərbaycan Respublikasının Dövlət Sərhəd Xidməti"
+    ],
+    "other_executor_codes": "DİN, DSX",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "baliq-ovu",
+      "vetegə"
+    ]
+  },
+  {
+    "id": "item-083",
+    "bend_no": "8.5.1.4",
+    "title": "Balıqartırma fəaliyyətinin gücləndirilməsi",
+    "text": "Balıqartırma fəaliyyətinin gücləndirilməsi",
+    "netice": "Balıqartırma təsərrüfatının fəaliyyətinin təmin edilməsi (Göygöl/Çaykənd, Ağdərə balıqartırma təsərrüfatları)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "baliqartirma",
+      "tesserrufat"
+    ]
+  },
+  {
+    "id": "item-084",
+    "bend_no": "8.5.2.1",
+    "title": "Balıqçılıq sahəsində inkişaf zonalarının müəyyən edilməsi",
+    "text": "Balıqçılıq sahəsində inkişaf zonalarının müəyyən edilməsi",
+    "netice": "Akvakultura sahəsində 1 aqroparkın yaradılması, zonaların müəyyən edilməsi",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "akvakultura-zona",
+      "aqropark"
+    ]
+  },
+  {
+    "id": "item-085",
+    "bend_no": "8.5.2.2",
+    "title": "Balıqçılıq sahəsində damazlıq işinin gücləndirilməsi",
+    "text": "Balıqçılıq sahəsində damazlıq işinin gücləndirilməsi",
+    "netice": "Damazlıq balıqçılıq təsərrüfatının formalaşdırılması",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [],
+    "other_executor_codes": "",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "damazliq-baliq"
+    ]
+  },
+  {
+    "id": "item-086",
+    "bend_no": "8.5.2.3",
+    "title": "Balıqçılıq və akvakultura sahəsində dəstək mexanizminin formalaşdırılması",
+    "text": "Balıqçılıq və akvakultura sahəsində dəstək mexanizminin formalaşdırılması",
+    "netice": "Akvakultura subyektlərinin məhsul buraxılışının 7700 tona çatdırılması (balıqçılıq və akvakultura məhsulları istehsalı və emalı sahəsində subsidiya və güzəştlərin tətbiqi)",
+    "executor": "Azərbaycan Respublikasının Kənd Təsərrüfatı Nazirliyi",
+    "executor_code": "KTN",
+    "other_executors": [
+      "Azərbaycan Respublikasının İqtisadiyyat Nazirliyi"
+    ],
+    "other_executor_codes": "İN",
+    "muddet": "2026-2030",
+    "sahe_tags": [
+      "balıqçılıq"
+    ],
+    "keywords": [
+      "akvakultura-subsidiyasi",
+      "guzeşt"
+    ]
+  }
+]

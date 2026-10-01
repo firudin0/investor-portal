@@ -1,0 +1,21 @@
+{
+  "istixana": ["ortulu sahe", "sera", "parnik"],
+  "suvarma": ["irriqasiya", "damlama suvarma", "melioratsiya"],
+  "süd": ["sud", "sudculuk", "suzma", "pendir"],
+  "ət": ["et", "etcilik", "kesimxana"],
+  "toxum": ["toxumçuluq", "tingçilik", "ting"],
+  "sığorta": ["sigorta", "aqrar sigorta"],
+  "kredit": ["kreditlesme", "maliyyelesme", "lizing"],
+  "balıqçılıq": ["baliqcilik", "akvakultura", "baliq yetistirme"],
+  "heyvandarlıq": ["heyvandarliq", "mal-qara", "iribuynuzlu", "xirdabuynuzlu"],
+  "pambıq": ["pambiq", "pambiqcilik"],
+  "üzümçülük": ["uzumculuk", "sarab", "vin"],
+  "bağçılıq": ["bagcilik", "intensiv bag", "meyve bagi"],
+  "quşçuluq": ["qusculuk", "toyuqculuq", "yumurta"],
+  "arıçılıq": ["ariciliq", "bal"],
+  "emal": ["emal senayesi", "istehsal", "zavod"],
+  "ixrac": ["ixracat", "export"],
+  "torpaq": ["torpaq munbitliyi", "torpaq islahatı"],
+  "texnika": ["kend teserrufati texnikasi", "kombayn", "traktor"],
+  "enerji": ["bərpa olunan enerji", "gunes enerjisi", "yasil enerji"]
+}
