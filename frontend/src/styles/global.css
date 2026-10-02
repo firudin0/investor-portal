@@ -200,6 +200,7 @@ body {
 
 .brand-footer .logo {
   height: 3rem;
+  background: var(--color-primary);
 }
 
 .footer-copy {
