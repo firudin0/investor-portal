@@ -1,15 +1,32 @@
 import { FormEvent, useEffect, useState } from "react";
 import { useNavigate, useSearchParams } from "react-router-dom";
 import { ApiError, fetchRegions, submitApplication } from "../api/client";
+import { usePageMeta } from "../seo";
 
 const AMOUNT_RANGES = [
-  { value: "0-50000", label: "0 – 50 000 AZN" },
-  { value: "50000-200000", label: "50 000 – 200 000 AZN" },
-  { value: "200000-1000000", label: "200 000 – 1 000 000 AZN" },
+  { value: "0-50000", label: "0-50 000 AZN" },
+  { value: "50000-200000", label: "50 000-200 000 AZN" },
+  { value: "200000-1000000", label: "200 000-1 000 000 AZN" },
   { value: "1000000+", label: "1 000 000 AZN və yuxarı" },
 ];
 
+// Must match backend/src/data/indicators.json (keys are validated on the backend).
+const INDICATORS = [
+  { key: "suvarma", label: "Müasir suvarma sistemləri tətbiq olunan sahələr", unit: "ha" },
+  { key: "bag", label: "İntensiv meyvə bağlarının sahəsi", unit: "ha" },
+  { key: "serab", label: "Kiçik şərabçılıq təsərrüfatları", unit: "ədəd" },
+  { key: "xirda", label: "Xırdabuynuzlu heyvanlar", unit: "baş" },
+  { key: "cins", label: "Cins heyvanlar (iribuynuzlu)", unit: "baş" },
+  { key: "qus", label: "Quş əti istehsalı", unit: "ton" },
+  { key: "none", label: "Bilmirəm / aid deyil", unit: null },
+];
+
 export default function ApplicationForm() {
+  usePageMeta({
+    title: "İnvestisiya niyyəti bildirişi",
+    description: "Kənd təsərrüfatı sahəsində investisiya niyyətinizi Kənd Təsərrüfatı Nazirliyinə bildirin.",
+    path: "/muraciet",
+  });
   const [params] = useSearchParams();
   const navigate = useNavigate();
 
@@ -18,6 +35,9 @@ export default function ApplicationForm() {
   const [amountRange, setAmountRange] = useState(AMOUNT_RANGES[0].value);
   const [amountExact, setAmountExact] = useState("");
   const [description, setDescription] = useState("");
+  const [indicator, setIndicator] = useState("");
+  const [volume, setVolume] = useState("");
+  const unit = INDICATORS.find((i) => i.key === indicator)?.unit ?? null;
   const [region, setRegion] = useState("");
   const [applicantName, setApplicantName] = useState("");
   const [voen, setVoen] = useState("");
@@ -48,6 +68,8 @@ export default function ApplicationForm() {
         amount_range: amountRange,
         amount_exact: amountExact ? Number(amountExact) : undefined,
         description,
+        indicator,
+        volume: unit && volume ? Number(volume) : undefined,
         region,
         applicant_name: applicantName,
         voen: voen || undefined,
@@ -126,6 +148,37 @@ export default function ApplicationForm() {
             <span className="field-error">{fieldErrors.description}</span>
           )}
         </label>
+
+        <div className="field-row">
+          <label>
+            Alt-indikator
+            <select value={indicator} onChange={(e) => setIndicator(e.target.value)} required>
+              <option value="" disabled>
+                Seçin...
+              </option>
+              {INDICATORS.map((i) => (
+                <option key={i.key} value={i.key}>
+                  {i.label}
+                </option>
+              ))}
+            </select>
+            {fieldErrors.indicator && <span className="field-error">{fieldErrors.indicator}</span>}
+          </label>
+
+          {unit && (
+            <label>
+              Planlaşdırılan əlavə həcm ({unit}, məlumdursa)
+              <input
+                type="number"
+                min="0"
+                step="any"
+                value={volume}
+                onChange={(e) => setVolume(e.target.value)}
+              />
+              {fieldErrors.volume && <span className="field-error">{fieldErrors.volume}</span>}
+            </label>
+          )}
+        </div>
 
         <label>
           Region

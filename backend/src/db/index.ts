@@ -10,14 +10,23 @@ export function getDb(): DatabaseSync {
   const dbPath = process.env.DB_PATH || path.join(__dirname, "..", "..", "data.sqlite");
   db = new DatabaseSync(dbPath);
   db.exec("PRAGMA journal_mode = WAL");
+  // Silinən şəxsi məlumat faylda köhnə səhifələrdə qalmasın.
+  db.exec("PRAGMA secure_delete = ON");
 
   const schema = fs.readFileSync(path.join(__dirname, "schema.sql"), "utf-8");
   db.exec(schema);
 
+  // Columns added after the first release: add them to databases created by the old schema.
+  const cols = new Set((db.prepare("PRAGMA table_info(applications)").all() as { name: string }[]).map((c) => c.name));
+  if (!cols.has("indicator")) db.exec("ALTER TABLE applications ADD COLUMN indicator TEXT");
+  if (!cols.has("volume")) db.exec("ALTER TABLE applications ADD COLUMN volume REAL");
+  if (!cols.has("rejected_at")) db.exec("ALTER TABLE applications ADD COLUMN rejected_at TEXT");
+  if (!cols.has("reject_reason")) db.exec("ALTER TABLE applications ADD COLUMN reject_reason TEXT");
+
   return db;
 }
 
-export type ApplicationStatus = "pending" | "sent" | "confirmed" | "failed";
+export type ApplicationStatus = "pending" | "sent" | "confirmed" | "failed" | "rejected";
 
 export interface ApplicationRecord {
   id: number;
@@ -33,6 +42,10 @@ export interface ApplicationRecord {
   email: string;
   consent: number;
   routing_group: string;
+  indicator: string | null;
+  volume: number | null;
+  rejected_at: string | null;
+  reject_reason: string | null;
   status: ApplicationStatus;
   transfer_attempts: number;
   transfer_error: string | null;

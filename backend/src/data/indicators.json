@@ -1,0 +1,9 @@
+[
+  { "key": "suvarma", "label": "Müasir suvarma sistemləri tətbiq olunan sahələr", "unit": "ha" },
+  { "key": "bag", "label": "İntensiv meyvə bağlarının sahəsi", "unit": "ha" },
+  { "key": "serab", "label": "Kiçik şərabçılıq təsərrüfatları", "unit": "ədəd" },
+  { "key": "xirda", "label": "Xırdabuynuzlu heyvanlar", "unit": "baş" },
+  { "key": "cins", "label": "Cins heyvanlar (iribuynuzlu)", "unit": "baş" },
+  { "key": "qus", "label": "Quş əti istehsalı", "unit": "ton" },
+  { "key": "none", "label": "Bilmirəm / aid deyil", "unit": null }
+]

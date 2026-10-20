@@ -1,6 +1,8 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
+import { usePageMeta } from "../seo";
 
 export default function Confirmation() {
+  usePageMeta({ title: "Müraciətiniz qeydə alındı", noindex: true });
   const location = useLocation();
   const navigate = useNavigate();
   const appNumber = (location.state as { appNumber?: string } | null)?.appNumber;

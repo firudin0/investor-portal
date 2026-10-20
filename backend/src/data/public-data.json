@@ -1,0 +1,241 @@
+{
+ "meta": {
+  "generated": "2026-10-20",
+  "program": "1044 nömrəli Dövlət Proqramı (2026-2030), «Əsas hədəf indikatorları»",
+  "source": "Sahibkar, fermer və bağbanlardan toplanmış sorğu məlumatı (cəmlər)",
+  "region_level": "14 iqtisadi rayon",
+  "min_n": 3,
+  "notes": [
+   "Bağ və suvarma sahələri cəmlənmir: eyni sahə hər iki indikatorda iştirak edə bilər.",
+   "Butik şərab: siyahıda mövcud və yeni istehsalçılar fərqləndirilməyib, bazadakı 5-in neçəsinin daxil olduğu dəqiqləşdirilməlidir.",
+   "3-dən az qeyd olan və ya bir qeydin 80%-dən çox pay tutduğu iqtisadi rayonlar «Digər iqtisadi rayonlar» sətrində birləşdirilib. Bunu təmin etmək mümkün olmayanda yalnız ümumi cəm verilir."
+  ]
+ },
+ "indicators": [
+  {
+   "key": "suvarma",
+   "title": "Müasir suvarma sistemləri tətbiq olunan sahələr",
+   "section": "Bitkiçilik",
+   "prog_unit": "min ha",
+   "data_unit": "ha",
+   "baza": 130.0,
+   "hedef": 300.0,
+   "baza_raw": "130",
+   "hedef_raw": "~300",
+   "gap": 170000.0,
+   "n": 221,
+   "potential": 64169.5,
+   "potential_verified": 49839.1,
+   "coverage": 37.7,
+   "coverage_verified": 29.3,
+   "review": {
+    "n": 29,
+    "amount": 6240.2
+   },
+   "by_region": [
+    {
+     "region": "Mərkəzi Aran",
+     "n": 26,
+     "amount": 9987.2
+    },
+    {
+     "region": "Şirvan-Salyan",
+     "n": 19,
+     "amount": 9657.1
+    },
+    {
+     "region": "Mil-Muğan",
+     "n": 33,
+     "amount": 9502.0
+    },
+    {
+     "region": "Qarabağ",
+     "n": 21,
+     "amount": 9247.0
+    },
+    {
+     "region": "Gəncə-Daşkəsən",
+     "n": 14,
+     "amount": 4503.0
+    },
+    {
+     "region": "Lənkəran-Astara",
+     "n": 46,
+     "amount": 2223.7
+    },
+    {
+     "region": "Quba-Xaçmaz",
+     "n": 25,
+     "amount": 1208.0
+    },
+    {
+     "region": "Digər iqtisadi rayonlar",
+     "n": 37,
+     "amount": 17841.4,
+     "n_regions": 4
+    }
+   ]
+  },
+  {
+   "key": "bag",
+   "title": "İntensiv meyvə bağlarının sahəsi",
+   "section": "Bitkiçilik",
+   "prog_unit": "min ha",
+   "data_unit": "ha",
+   "baza": 50.0,
+   "hedef": 70.0,
+   "baza_raw": "50",
+   "hedef_raw": "~70",
+   "gap": 20000.0,
+   "n": 186,
+   "potential": 15270.3,
+   "potential_verified": 5718.0,
+   "coverage": 76.4,
+   "coverage_verified": 28.6,
+   "planted_2026": 988.3,
+   "contest_ha": 5503.0,
+   "review": {
+    "n": 11,
+    "amount": 259.6
+   },
+   "by_region": [
+    {
+     "region": "Təyin edilməyib",
+     "n": 15,
+     "amount": 8519.3
+    },
+    {
+     "region": "Quba-Xaçmaz",
+     "n": 74,
+     "amount": 1667.1
+    },
+    {
+     "region": "Mil-Muğan",
+     "n": 8,
+     "amount": 958.0
+    },
+    {
+     "region": "Mərkəzi Aran",
+     "n": 14,
+     "amount": 909.5
+    },
+    {
+     "region": "Qarabağ",
+     "n": 8,
+     "amount": 738.1
+    },
+    {
+     "region": "Lənkəran-Astara",
+     "n": 35,
+     "amount": 570.5
+    },
+    {
+     "region": "Dağlıq Şirvan",
+     "n": 11,
+     "amount": 352.6
+    },
+    {
+     "region": "Şəki-Zaqatala",
+     "n": 8,
+     "amount": 222.0
+    },
+    {
+     "region": "Digər iqtisadi rayonlar",
+     "n": 13,
+     "amount": 1333.3,
+     "n_regions": 3
+    }
+   ]
+  },
+  {
+   "key": "serab",
+   "title": "Kiçik şərabçılıq təsərrüfatlarının sayı",
+   "section": "Bitkiçilik",
+   "prog_unit": "ədəd",
+   "data_unit": "ədəd",
+   "baza": 5.0,
+   "hedef": 20.0,
+   "baza_raw": "5",
+   "hedef_raw": "~20",
+   "gap": 15.0,
+   "n": 15,
+   "potential": 15.0,
+   "potential_verified": 0,
+   "coverage": 100.0,
+   "coverage_verified": 0.0,
+   "by_region": [
+    {
+     "region": "Dağlıq Şirvan",
+     "n": 5,
+     "amount": 5.0
+    },
+    {
+     "region": "Qazax-Tovuz",
+     "n": 3,
+     "amount": 3.0
+    },
+    {
+     "region": "Digər iqtisadi rayonlar",
+     "n": 7,
+     "amount": 7.0,
+     "n_regions": 6
+    }
+   ]
+  },
+  {
+   "key": "xirda",
+   "title": "İxtisaslaşmış aqropark və yarım intensiv təsərrüfatlarda xırdabuynuzlu heyvanların sayının artırılması",
+   "section": "Heyvandarlıq",
+   "prog_unit": "min baş",
+   "data_unit": "baş",
+   "baza": null,
+   "hedef": 670.0,
+   "baza_raw": "-",
+   "hedef_raw": "~670",
+   "gap": 670000.0,
+   "n": 56,
+   "potential": 121673.0,
+   "potential_verified": 112263.0,
+   "coverage": 18.2,
+   "coverage_verified": 16.8,
+   "concentrated": true,
+   "review": {
+    "n": 22,
+    "amount": 7060.0
+   },
+   "by_region": [
+    {
+     "region": "Lənkəran-Astara",
+     "n": 14,
+     "amount": 5670.0
+    },
+    {
+     "region": "Dağlıq Şirvan",
+     "n": 8,
+     "amount": 3863.0
+    },
+    {
+     "region": "Mil-Muğan",
+     "n": 18,
+     "amount": 3280.0
+    },
+    {
+     "region": "Quba-Xaçmaz",
+     "n": 3,
+     "amount": 2530.0
+    },
+    {
+     "region": "Şəki-Zaqatala",
+     "n": 3,
+     "amount": 900.0
+    },
+    {
+     "region": "Digər iqtisadi rayonlar",
+     "n": 10,
+     "amount": 105430.0,
+     "n_regions": 5
+    }
+   ]
+  }
+ ]
+}

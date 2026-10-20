@@ -1,7 +1,7 @@
 # Kənd Təsərrüfatı İnvestisiya Portalı
 
 Açıq (qeydiyyatsız) investor portalı. "Kənd Təsərrüfatı üzrə Dövlət Proqramı
-(2026–2030)" çərçivəsində investorlara aidiyyəti dövlət dəstəyi mexanizmlərini
+(2026-2030)" çərçivəsində investorlara aidiyyəti dövlət dəstəyi mexanizmlərini
 və proqram bəndlərini göstərir, investisiya niyyəti bildirişini qəbul edir və
 daxili monitorinq portalına ötürür.
 
@@ -36,10 +36,10 @@ etdiyi müraciətləri ötürə bilər.
 
 Ötürmə üçün iki rejim var (`.env` → `INTERNAL_ADAPTER_MODE`):
 
-- **PULL (defolt)** — daxili portal özü `GET /api/internal/applications?status=pending`
+- **PULL (defolt)**: daxili portal özü `GET /api/internal/applications?status=pending`
   ünvanından yeni müraciətləri çəkir, işlədikdən sonra
   `POST /api/internal/applications/:appNumber/ack` ilə qəbulu təsdiqləyir.
-- **PUSH** — açıq portal müraciəti qəbul edən kimi öz təşəbbüsü ilə daxili
+- **PUSH**: açıq portal müraciəti qəbul edən kimi öz təşəbbüsü ilə daxili
   portalın API-sinə göndərir (xəta halında retry/backoff ilə).
 
 Hər iki rejimdə daxili endpointlər (`/api/internal/*`) açıq `/api/*`
@@ -125,13 +125,13 @@ scripts/
 Bütün sahə/dəstək məzmunu `backend/src/data/` altında JSON fayllarda saxlanılır
 və serveri yenidən başlatmaqdan başqa heç bir kod dəyişikliyi tələb etmir:
 
-- **`incentives.json`** — konkret dövlət dəstəyi/güzəşt/subsidiya mexanizmləri.
-- **`program-items.json`** — Dövlət Proqramının fəaliyyət planı bəndləri
+- **`incentives.json`**: konkret dövlət dəstəyi/güzəşt/subsidiya mexanizmləri.
+- **`program-items.json`**: Dövlət Proqramının fəaliyyət planı bəndləri
   (bənd nömrəsi, mətn, icraçı, müddət, nəticə).
-- **`regions.json`** — rayon/şəhər siyahısı (forma üçün).
-- **`routing-rules.json`** — sahə teqlərinin işçi qrup koduna uyğunluğu
+- **`regions.json`**: rayon/şəhər siyahısı (forma üçün).
+- **`routing-rules.json`**: sahə teqlərinin işçi qrup koduna uyğunluğu
   (bax aşağıda, mənbə sənəddə yoxdur).
-- **`synonyms.json`** — AZ sinonim/əlaqəli söz qrupları (axtarışın geniş
+- **`synonyms.json`**: AZ sinonim/əlaqəli söz qrupları (axtarışın geniş
   işləməsi üçün, məs. "toyuqçuluq" → "quşçuluq").
 
 Yeni bənd/dəstək əlavə etmək üçün uyğun JSON-a yeni obyekt əlavə edin (eyni
@@ -143,9 +143,9 @@ lazım deyil.
 Real daxili portal hazır olduqda, `backend/.env`-də:
 
 1. `INTERNAL_ADAPTER_MODE` seçin:
-   - `pull` — daxili komandaya yalnız API açarı və (istəyə görə) IP
+   - `pull`: daxili komandaya yalnız API açarı və (istəyə görə) IP
      whitelist verin ki, `/api/internal/*`-a sorğu göndərə bilsinlər.
-   - `push` — `INTERNAL_API_BASE_URL` və `INTERNAL_PUSH_API_KEY`-i real
+   - `push`: `INTERNAL_API_BASE_URL` və `INTERNAL_PUSH_API_KEY`-i real
      dəyərlərlə doldurun.
 2. `INTERNAL_API_KEY`-i güclü, təsadüfi dəyərlə əvəz edin (PULL rejimi üçün).
 3. `INTERNAL_IP_WHITELIST`-ə daxili portalın server IP-lərini (vergüllə
@@ -153,26 +153,26 @@ Real daxili portal hazır olduqda, `backend/.env`-də:
 4. `routing-rules.json`-u real işçi qrup strukturu ilə əvəz edin (bax
    [Fərziyyələr](#fərziyyələr-və-mənbə-məhdudiyyətləri)).
 
-Mock server artıq istifadə olunmamalıdır — `npm run dev:mock-internal`
+Mock server artıq istifadə olunmamalıdır: `npm run dev:mock-internal`
 yalnız lokal test üçündür.
 
 ## Şəxsi məlumatların minimallaşdırılması
 
-`PURGE_PII_ON_CONFIRM=true` təyin olunarsa, daxili portal müraciəti qəbul
-edib təsdiqlədikdən sonra (`POST /api/internal/applications/:appNumber/ack`)
-açıq portal həmin sətirdən şəxsi məlumatları (ad, telefon, e-poçt, VÖEN,
-region, məbləğ, təsvir) silir və yalnız müraciət nömrəsi, sahə, status,
-işçi qrup və tarixi saxlayır. Defolt `false`-dur (dev rahatlığı üçün).
+Daxili portal (panel) müraciəti öz bazasına yazıb təsdiqlədikdən sonra
+(`POST /api/internal/applications/:appNumber/ack`) açıq portal həmin sətirdən
+şəxsi məlumatları (ad, telefon, e-poçt, VÖEN, region, sahə, məbləğ, həcm, təsvir)
+həmişə silir. Yalnız müraciət nömrəsi, status, alt-indikator, işçi qrup və
+tarixlər qalır. Server başlayanda köhnə qalıqlar da təmizlənir.
 
 ## Spam/bot qoruması
 
 Qeydiyyat olmadığı üçün aşağıdakı mexanizmlər tətbiq olunub:
 
-- **Rate limiting**: `POST /api/applications` — 15 dəqiqədə 5 sorğu/IP;
-  `GET /api/search` — dəqiqədə 60 sorğu/IP.
+- **Rate limiting**: `POST /api/applications`: 15 dəqiqədə 5 sorğu/IP;
+  `GET /api/search`: dəqiqədə 60 sorğu/IP.
 - **Honeypot**: formada görünməz (`website`) sahə var. Bot onu doldursa,
   server saxta uğurlu cavab (təsadüfi müraciət nömrəsi) qaytarır, lakin
-  heç nə yazmır — bot hansı sahənin tələ olduğunu bilə bilmir.
+  heç nə yazmır: bot hansı sahənin tələ olduğunu bilə bilmir.
 - **Server-side validasiya**: bütün sahələr `zod` ilə yoxlanılır (format,
   uzunluq, region siyahısı, VÖEN formatı və s.); frontend validasiyası
   yalnız UX üçündür, təhlükəsizlik üçün deyil.
@@ -195,19 +195,19 @@ Tapşırığa əsasən: **mənbədə olmayan heç nə uydurulmayıb**; proqram b
 `docs/dovlet-proqrami.pdf`-dən çıxarılıb. Aşağıdakılar isə mənbə sənəddə
 **yoxdur** və development üçün fərziyyə əsasında əlavə olunub:
 
-- **`regions.json`** — Azərbaycanın rayon/inzibati vahid siyahısı. Ümumi
+- **`regions.json`**: Azərbaycanın rayon/inzibati vahid siyahısı. Ümumi
   bilikdən tərtib edilib, mənbə sənədin hissəsi deyil.
-- **`routing-rules.json`** — işçi qrup kodları (WG-BITKI, WG-HEYVAN və s.)
+- **`routing-rules.json`**: işçi qrup kodları (WG-BITKI, WG-HEYVAN və s.)
   və sahə→qrup uyğunluğu tamamilə fərziyyədir (fayl daxilində `_qeyd`
   sahəsində də qeyd olunub). Real daxili portala qoşulmadan əvvəl bu fayl
   real işçi qrup strukturu ilə əvəz edilməlidir.
-- **Axtarış sinonimləri (`synonyms.json`)** — dilçi fərziyyə əsasında
+- **Axtarış sinonimləri (`synonyms.json`)**: dilçi fərziyyə əsasında
   tərtib edilib, mənbə sənədin hissəsi deyil.
 
 **Mənbədə tapılmayan mövzular**: canlı testlər zamanı müəyyən edilib ki,
 bəzi dar mövzular (məsələn, "arıçılıq" / arı/bal istehsalı) üçün Dövlət
 Proqramının mətnində ayrıca bənd və ya dəstək mexanizmi yoxdur. Bu
-mövzular üzrə axtarış nəticəsiz qalır — bu, axtarış mühərrikinin qüsuru
+mövzular üzrə axtarış nəticəsiz qalır: bu, axtarış mühərrikinin qüsuru
 deyil, mənbə sənədin əhatə dairəsinin məhdudluğudur. İstifadəçi yenə də
 ümumi investisiya niyyəti kimi müraciət edə bilər (bax Nəticələr səhifəsi,
 "boş nəticə" halı).

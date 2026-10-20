@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
 import { useNavigate, useSearchParams } from "react-router-dom";
 import { searchProgram, SearchResult } from "../api/client";
+import { usePageMeta } from "../seo";
 
 export default function ResultsPage() {
+  usePageMeta({ title: "Axtarış nəticələri", noindex: true });
   const [params] = useSearchParams();
   const query = params.get("q") ?? "";
   const navigate = useNavigate();
@@ -43,7 +45,7 @@ export default function ResultsPage() {
           </p>
           <p>
             Bu, sizin sahənizin proqram çərçivəsindən kənar olduğu demək
-            deyil — mövcud məlumat bazası proqram mətnində aydın qeyd olunan
+            deyil: mövcud məlumat bazası proqram mətnində aydın qeyd olunan
             mexanizmlərlə məhdudlaşır. İstəsəniz, ümumi investisiya niyyəti
             kimi müraciət edə bilərsiniz.
           </p>

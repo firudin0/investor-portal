@@ -1,13 +1,9 @@
 import { NextFunction, Request, Response } from "express";
 
 function clientIp(req: Request): string {
-  // trust proxy must be configured correctly in server.ts when deployed
-  // behind a reverse proxy, otherwise this falls back to the socket address.
-  const forwarded = req.headers["x-forwarded-for"];
-  if (typeof forwarded === "string" && forwarded.length > 0) {
-    return forwarded.split(",")[0].trim();
-  }
-  return req.socket.remoteAddress || "";
+  // req.ip X-Forwarded-For-u yalnız server.ts-dəki "trust proxy" (TRUST_PROXY) qədər nəzərə alır.
+  // Başlığın müştəri yazdığı sol elementinə birbaşa etibar edilmir.
+  return req.ip || req.socket.remoteAddress || "";
 }
 
 function normalizeIp(ip: string): string {

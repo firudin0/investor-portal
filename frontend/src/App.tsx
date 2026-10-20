@@ -3,22 +3,12 @@ import SearchPage from "./pages/SearchPage";
 import ResultsPage from "./pages/ResultsPage";
 import ApplicationForm from "./pages/ApplicationForm";
 import Confirmation from "./pages/Confirmation";
+import NotFound from "./pages/NotFound";
 
 export default function App() {
   return (
     <div className="app-shell">
-      <div className="demo-banner" role="note">DEMO VERSİYA — rəsmi sayt deyil</div>
       <header className="site-header">
-        <div className="topbar">
-          <div className="container topbar-inner">
-            <span className="topbar-lang">
-              <span className="lang-active">Azərbaycanca</span>
-            </span>
-            <a href="https://agro.gov.az" className="topbar-link" target="_blank" rel="noreferrer">
-              agro.gov.az
-            </a>
-          </div>
-        </div>
         <div className="header-main">
           <div className="container header-main-inner">
             <Link to="/" className="brand">
@@ -30,7 +20,7 @@ export default function App() {
               </span>
             </Link>
             <div className="header-side">
-              <p className="header-slogan">Kənd Təsərrüfatı üzrə Dövlət Proqramı (2026–2030)</p>
+              <p className="header-slogan">Kənd Təsərrüfatı üzrə Dövlət Proqramı (2026-2030)</p>
               <nav className="main-nav" aria-label="Əsas menyu">
                 <NavLink to="/" end>İnvestor Portalı</NavLink>
                 <NavLink to="/muraciet">Müraciət</NavLink>
@@ -45,6 +35,7 @@ export default function App() {
           <Route path="/neticeler" element={<ResultsPage />} />
           <Route path="/muraciet" element={<ApplicationForm />} />
           <Route path="/tesdiq" element={<Confirmation />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
       <footer className="site-footer">
@@ -57,7 +48,7 @@ export default function App() {
               <strong>Kənd Təsərrüfatı Nazirliyi</strong>
             </span>
           </div>
-          <p className="footer-copy">Kənd Təsərrüfatı üzrə Dövlət Proqramı (2026–2030) · İnvestor Portalı</p>
+          <p className="footer-copy">Kənd Təsərrüfatı üzrə Dövlət Proqramı (2026-2030) · İnvestor Portalı</p>
         </div>
       </footer>
     </div>

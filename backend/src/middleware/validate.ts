@@ -1,14 +1,18 @@
 import { NextFunction, Request, Response } from "express";
 import { z } from "zod";
 import regions from "../data/regions.json";
+import indicators from "../data/indicators.json";
 
 const regionSet = new Set(regions as string[]);
+const indicatorSet = new Set(indicators.map((i) => i.key));
 
 export const applicationSchema = z.object({
   field: z.string().trim().min(2).max(200),
   amount_range: z.string().trim().max(50).optional().nullable(),
   amount_exact: z.number().positive().max(1_000_000_000).optional().nullable(),
   description: z.string().trim().min(10).max(4000),
+  indicator: z.string({ required_error: "Alt-indikatoru seçin" }).refine((k) => indicatorSet.has(k), { message: "Alt-indikatoru seçin" }),
+  volume: z.number().positive("Həcm müsbət olmalıdır").max(10_000_000).optional().nullable(),
   region: z.string().refine((r) => regionSet.has(r), {
     message: "Naməlum region",
   }),
@@ -57,6 +61,8 @@ export function validateApplication(req: Request, res: Response, next: NextFunct
     });
     return;
   }
+  // "Bilmirəm / aid deyil": volume has no unit, so it is not kept.
+  if (parsed.data.indicator === "none") parsed.data.volume = null;
   req.body = parsed.data;
   next();
 }

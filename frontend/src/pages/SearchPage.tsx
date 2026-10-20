@@ -1,9 +1,15 @@
 import { FormEvent, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { SITE_NAME, usePageMeta } from "../seo";
 
 const EXAMPLES = ["istixana", "süd", "suvarma", "arıçılıq", "quşçuluq", "pambıq"];
 
 export default function SearchPage() {
+  usePageMeta({
+    title: SITE_NAME,
+    description: "Kənd təsərrüfatı sahəniz üzrə dövlət dəstək mexanizmlərini və 2026-2030-cu illər Dövlət Proqramının müvafiq tədbirlərini tapın.",
+    path: "/",
+  });
   const [query, setQuery] = useState("");
   const navigate = useNavigate();
 

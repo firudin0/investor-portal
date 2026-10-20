@@ -6,15 +6,10 @@ export function getAdapterMode(): AdapterMode {
   return process.env.INTERNAL_ADAPTER_MODE === "push" ? "push" : "pull";
 }
 
-function shouldPurgePii(): boolean {
-  return process.env.PURGE_PII_ON_CONFIRM === "true";
-}
-
-export function purgePiiIfConfigured(appNumber: string) {
-  if (!shouldPurgePii()) return;
-  const db = getDb();
-  db.prepare(
-    `UPDATE applications SET
+// Panel müraciəti öz bazasına yazıb ack edəndən sonra ictimai serverdə şəxsi məlumat saxlanmır.
+// Yalnız nömrə, status, alt-indikator, işçi qrup və tarixlər qalır.
+const PURGE_PII_SQL = `UPDATE applications SET
+       field = '',
        description = '',
        applicant_name = '',
        voen = NULL,
@@ -23,9 +18,23 @@ export function purgePiiIfConfigured(appNumber: string) {
        region = '',
        amount_range = NULL,
        amount_exact = NULL,
-       updated_at = strftime('%Y-%m-%dT%H:%M:%fZ', 'now')
-     WHERE app_number = ?`
-  ).run(appNumber);
+       volume = NULL,
+       updated_at = strftime('%Y-%m-%dT%H:%M:%fZ', 'now')`;
+
+export function purgePii(appNumber: string) {
+  const db = getDb();
+  db.prepare(`${PURGE_PII_SQL} WHERE app_number = ?`).run(appNumber);
+  db.exec("PRAGMA wal_checkpoint(TRUNCATE)");
+}
+
+// Köhnə versiyada ack edilib, şəxsi məlumatı qalmış müraciətlər (başlanğıcda bir dəfə).
+export function purgeConfirmedBacklog() {
+  const db = getDb();
+  const result = db.prepare(`${PURGE_PII_SQL} WHERE status = 'confirmed' AND applicant_name != ''`).run();
+  if (result.changes > 0) {
+    db.exec("PRAGMA wal_checkpoint(TRUNCATE)");
+    console.log(`purged PII of ${result.changes} confirmed application(s)`);
+  }
 }
 
 export function markConfirmed(appNumber: string, internalRef: string | null) {
@@ -33,7 +42,7 @@ export function markConfirmed(appNumber: string, internalRef: string | null) {
   db.prepare(
     `UPDATE applications SET status = 'confirmed', internal_ref = ?, updated_at = strftime('%Y-%m-%dT%H:%M:%fZ', 'now') WHERE app_number = ?`
   ).run(internalRef, appNumber);
-  purgePiiIfConfigured(appNumber);
+  purgePii(appNumber);
 }
 
 export function markSent(appNumber: string) {

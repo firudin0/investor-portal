@@ -14,6 +14,12 @@ services:
       - key: INTERNAL_API_KEY
         generateValue: true
       - key: RUN_MOCK_INTERNAL
-        value: "true"
+        value: "false"
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: TRUST_PROXY
+        value: "1"
       - key: DB_PATH
         value: /tmp/data.sqlite

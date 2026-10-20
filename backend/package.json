@@ -17,6 +17,7 @@
     "express": "^4.19.2",
     "express-rate-limit": "^7.4.0",
     "fuse.js": "^7.0.0",
+    "helmet": "^8.3.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {

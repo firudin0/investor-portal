@@ -17,8 +17,8 @@ applicationsRouter.post("/applications", applicationRateLimit, checkHoneypot, va
   db.prepare(
     `INSERT INTO applications
       (app_number, field, amount_range, amount_exact, description, region,
-       applicant_name, voen, phone, email, consent, routing_group, status)
-     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'pending')`
+       applicant_name, voen, phone, email, consent, routing_group, indicator, volume, status)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'pending')`
   ).run(
     appNumber,
     input.field,
@@ -31,7 +31,9 @@ applicationsRouter.post("/applications", applicationRateLimit, checkHoneypot, va
     input.phone,
     input.email,
     1,
-    routingGroup
+    routingGroup,
+    input.indicator,
+    input.volume ?? null
   );
 
   res.status(201).json({ app_number: appNumber, status: "pending" });
